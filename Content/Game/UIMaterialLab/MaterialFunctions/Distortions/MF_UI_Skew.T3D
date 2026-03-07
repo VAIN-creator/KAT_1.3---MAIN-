@@ -1,0 +1,367 @@
+Begin Object Class=/Script/Engine.MaterialFunction Name="MF_UI_Skew" ExportPath="/Script/Engine.MaterialFunction'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew'"
+   Begin Object Class=/Script/Engine.MaterialFunctionEditorOnlyData Name="MF_UI_SkewEditorOnlyData" ExportPath="/Script/Engine.MaterialFunctionEditorOnlyData'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MF_UI_SkewEditorOnlyData'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_0" ExportPath="/Script/Engine.MaterialExpressionAdd'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionAdd_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComponentMask Name="MaterialExpressionComponentMask_1" ExportPath="/Script/Engine.MaterialExpressionComponentMask'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionComponentMask_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_0" ExportPath="/Script/Engine.MaterialExpressionConstant'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionConstant_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_1" ExportPath="/Script/Engine.MaterialExpressionConstant'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionConstant_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_2" ExportPath="/Script/Engine.MaterialExpressionConstant'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionConstant_2'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_3" ExportPath="/Script/Engine.MaterialExpressionConstant'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionConstant_3'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstantBiasScale Name="MaterialExpressionConstantBiasScale_0" ExportPath="/Script/Engine.MaterialExpressionConstantBiasScale'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionConstantBiasScale_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_0" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionFunctionInput_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_1" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionFunctionInput_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_2" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionFunctionInput_2'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_3" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionFunctionInput_3'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_4" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionFunctionInput_4'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionOutput Name="MaterialExpressionFunctionOutput_1" ExportPath="/Script/Engine.MaterialExpressionFunctionOutput'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionFunctionOutput_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionOutput Name="MaterialExpressionFunctionOutput_2" ExportPath="/Script/Engine.MaterialExpressionFunctionOutput'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionFunctionOutput_2'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_0" ExportPath="/Script/Engine.MaterialExpressionLinearInterpolate'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionLinearInterpolate_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_0" ExportPath="/Script/Engine.MaterialExpressionMaterialFunctionCall'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionMaterialFunctionCall_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_11" ExportPath="/Script/Engine.MaterialExpressionMaterialFunctionCall'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionMaterialFunctionCall_11'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_2" ExportPath="/Script/Engine.MaterialExpressionMaterialFunctionCall'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionMaterialFunctionCall_2'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_8" ExportPath="/Script/Engine.MaterialExpressionMaterialFunctionCall'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionMaterialFunctionCall_8'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMin Name="MaterialExpressionMin_7" ExportPath="/Script/Engine.MaterialExpressionMin'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionMin_7'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMin Name="MaterialExpressionMin_8" ExportPath="/Script/Engine.MaterialExpressionMin'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionMin_8'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMin Name="MaterialExpressionMin_9" ExportPath="/Script/Engine.MaterialExpressionMin'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionMin_9'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionNamedRerouteDeclaration Name="MaterialExpressionNamedRerouteDeclaration_0" ExportPath="/Script/Engine.MaterialExpressionNamedRerouteDeclaration'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionNamedRerouteDeclaration_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionNamedRerouteDeclaration Name="MaterialExpressionNamedRerouteDeclaration_1" ExportPath="/Script/Engine.MaterialExpressionNamedRerouteDeclaration'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionNamedRerouteDeclaration_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionNamedRerouteUsage Name="MaterialExpressionNamedRerouteUsage_0" ExportPath="/Script/Engine.MaterialExpressionNamedRerouteUsage'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionNamedRerouteUsage_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionNamedRerouteUsage Name="MaterialExpressionNamedRerouteUsage_1" ExportPath="/Script/Engine.MaterialExpressionNamedRerouteUsage'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionNamedRerouteUsage_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionOneMinus Name="MaterialExpressionOneMinus_2" ExportPath="/Script/Engine.MaterialExpressionOneMinus'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionOneMinus_2'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionSmoothStep Name="MaterialExpressionSmoothStep_1" ExportPath="/Script/Engine.MaterialExpressionSmoothStep'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionSmoothStep_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_1" ExportPath="/Script/Engine.MaterialExpressionTextureCoordinate'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionTextureCoordinate_1'"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0" ExportPath="/Script/UnrealEd.SceneThumbnailInfoWithPrimitive'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:SceneThumbnailInfoWithPrimitive_0'"
+   End Object
+   Begin Object Class=/Script/Engine.Material Name="Material_0" ExportPath="/Script/Engine.Material'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:Material_0'"
+      Begin Object Class=/Script/Engine.MaterialEditorOnlyData Name="Material_0EditorOnlyData" ExportPath="/Script/Engine.MaterialEditorOnlyData'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:Material_0.Material_0EditorOnlyData'"
+      End Object
+   End Object
+   Begin Object Name="MF_UI_SkewEditorOnlyData" ExportPath="/Script/Engine.MaterialFunctionEditorOnlyData'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MF_UI_SkewEditorOnlyData'"
+      ExpressionCollection=(Expressions=("/Script/Engine.MaterialExpressionFunctionOutput'MF_UI_Skew:MaterialExpressionFunctionOutput_1'","/Script/Engine.MaterialExpressionTextureCoordinate'MF_UI_Skew:MaterialExpressionTextureCoordinate_1'","/Script/Engine.MaterialExpressionMaterialFunctionCall'MF_UI_Skew:MaterialExpressionMaterialFunctionCall_0'","/Script/Engine.MaterialExpressionConstantBiasScale'MF_UI_Skew:MaterialExpressionConstantBiasScale_0'","/Script/Engine.MaterialExpressionComponentMask'MF_UI_Skew:MaterialExpressionComponentMask_1'","/Script/Engine.MaterialExpressionFunctionInput'MF_UI_Skew:MaterialExpressionFunctionInput_1'","/Script/Engine.MaterialExpressionFunctionInput'MF_UI_Skew:MaterialExpressionFunctionInput_2'","/Script/Engine.MaterialExpressionConstant'MF_UI_Skew:MaterialExpressionConstant_1'","/Script/Engine.MaterialExpressionLinearInterpolate'MF_UI_Skew:MaterialExpressionLinearInterpolate_0'","/Script/Engine.MaterialExpressionFunctionInput'MF_UI_Skew:MaterialExpressionFunctionInput_3'","/Script/Engine.MaterialExpressionConstant'MF_UI_Skew:MaterialExpressionConstant_2'","/Script/Engine.MaterialExpressionNamedRerouteDeclaration'MF_UI_Skew:MaterialExpressionNamedRerouteDeclaration_0'","/Script/Engine.MaterialExpressionNamedRerouteUsage'MF_UI_Skew:MaterialExpressionNamedRerouteUsage_0'","/Script/Engine.MaterialExpressionMaterialFunctionCall'MF_UI_Skew:MaterialExpressionMaterialFunctionCall_8'","/Script/Engine.MaterialExpressionOneMinus'MF_UI_Skew:MaterialExpressionOneMinus_2'","/Script/Engine.MaterialExpressionMaterialFunctionCall'MF_UI_Skew:MaterialExpressionMaterialFunctionCall_11'","/Script/Engine.MaterialExpressionMin'MF_UI_Skew:MaterialExpressionMin_7'","/Script/Engine.MaterialExpressionMin'MF_UI_Skew:MaterialExpressionMin_8'","/Script/Engine.MaterialExpressionMin'MF_UI_Skew:MaterialExpressionMin_9'","/Script/Engine.MaterialExpressionSmoothStep'MF_UI_Skew:MaterialExpressionSmoothStep_1'","/Script/Engine.MaterialExpressionAdd'MF_UI_Skew:MaterialExpressionAdd_0'","/Script/Engine.MaterialExpressionNamedRerouteDeclaration'MF_UI_Skew:MaterialExpressionNamedRerouteDeclaration_1'","/Script/Engine.MaterialExpressionNamedRerouteUsage'MF_UI_Skew:MaterialExpressionNamedRerouteUsage_1'","/Script/Engine.MaterialExpressionFunctionInput'MF_UI_Skew:MaterialExpressionFunctionInput_0'","/Script/Engine.MaterialExpressionConstant'MF_UI_Skew:MaterialExpressionConstant_0'","/Script/Engine.MaterialExpressionFunctionInput'MF_UI_Skew:MaterialExpressionFunctionInput_4'","/Script/Engine.MaterialExpressionConstant'MF_UI_Skew:MaterialExpressionConstant_3'","/Script/Engine.MaterialExpressionFunctionOutput'MF_UI_Skew:MaterialExpressionFunctionOutput_2'","/Script/Engine.MaterialExpressionMaterialFunctionCall'MF_UI_Skew:MaterialExpressionMaterialFunctionCall_2'"))
+   End Object
+   Begin Object Name="MaterialExpressionAdd_0" ExportPath="/Script/Engine.MaterialExpressionAdd'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionAdd_0'"
+      A=(Expression="/Script/Engine.MaterialExpressionFunctionInput'MF_UI_Skew:MaterialExpressionFunctionInput_0'")
+      B=(Expression="/Script/Engine.MaterialExpressionFunctionInput'MF_UI_Skew:MaterialExpressionFunctionInput_4'")
+      MaterialExpressionEditorX=992
+      MaterialExpressionEditorY=976
+      MaterialExpressionGuid=557413D54C710FA0D0E8D28E3869F3D3
+      Function="/Script/Engine.MaterialFunction'MF_UI_Skew'"
+   End Object
+   Begin Object Name="MaterialExpressionComponentMask_1" ExportPath="/Script/Engine.MaterialExpressionComponentMask'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionComponentMask_1'"
+      Input=(Expression="/Script/Engine.MaterialExpressionConstantBiasScale'MF_UI_Skew:MaterialExpressionConstantBiasScale_0'")
+      R=True
+      MaterialExpressionEditorX=208
+      MaterialExpressionEditorY=224
+      MaterialExpressionGuid=F6B6208A45B19F74DEC8BA9DE25EBE92
+      Function="/Script/Engine.MaterialFunction'MF_UI_Skew'"
+   End Object
+   Begin Object Name="MaterialExpressionConstant_0" ExportPath="/Script/Engine.MaterialExpressionConstant'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionConstant_0'"
+      MaterialExpressionEditorX=208
+      MaterialExpressionEditorY=688
+      MaterialExpressionGuid=2138C5DE4F0262B69225CF93175C9182
+      Function="/Script/Engine.MaterialFunction'MF_UI_Skew'"
+   End Object
+   Begin Object Name="MaterialExpressionConstant_1" ExportPath="/Script/Engine.MaterialExpressionConstant'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionConstant_1'"
+      MaterialExpressionEditorX=-992
+      MaterialExpressionEditorY=432
+      MaterialExpressionGuid=028231234AF180EAD4D675954131E477
+      Function="/Script/Engine.MaterialFunction'MF_UI_Skew'"
+   End Object
+   Begin Object Name="MaterialExpressionConstant_2" ExportPath="/Script/Engine.MaterialExpressionConstant'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionConstant_2'"
+      R=0.400000
+      MaterialExpressionEditorX=-64
+      MaterialExpressionEditorY=432
+      MaterialExpressionGuid=C421ED22476A5B1C501D7A828CE91D48
+      Function="/Script/Engine.MaterialFunction'MF_UI_Skew'"
+   End Object
+   Begin Object Name="MaterialExpressionConstant_3" ExportPath="/Script/Engine.MaterialExpressionConstant'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionConstant_3'"
+      R=0.020000
+      MaterialExpressionEditorX=208
+      MaterialExpressionEditorY=880
+      MaterialExpressionGuid=2138C5DE4F0262B69225CF93175C9182
+      Function="/Script/Engine.MaterialFunction'MF_UI_Skew'"
+   End Object
+   Begin Object Name="MaterialExpressionConstantBiasScale_0" ExportPath="/Script/Engine.MaterialExpressionConstantBiasScale'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionConstantBiasScale_0'"
+      Input=(Expression="/Script/Engine.MaterialExpressionMaterialFunctionCall'MF_UI_Skew:MaterialExpressionMaterialFunctionCall_0'")
+      Bias=-0.500000
+      Scale=2.000000
+      MaterialExpressionEditorX=-16
+      MaterialExpressionEditorY=224
+      MaterialExpressionGuid=58D9428E4A449319DBFD62A1F460F63D
+      Function="/Script/Engine.MaterialFunction'MF_UI_Skew'"
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_0" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionFunctionInput_0'"
+      Preview=(Expression="/Script/Engine.MaterialExpressionConstant'MF_UI_Skew:MaterialExpressionConstant_0'")
+      InputName="Alpha threshold"
+      Id=D1C18A9843F266CFC50C6DB86B64F588
+      InputType=FunctionInput_Scalar
+      bUsePreviewValueAsDefault=True
+      SortPriority=1
+      MaterialExpressionEditorX=432
+      MaterialExpressionEditorY=688
+      MaterialExpressionGuid=5701327A4904DEE58A3F758633BAD890
+      Function="/Script/Engine.MaterialFunction'MF_UI_Skew'"
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_1" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionFunctionInput_1'"
+      Preview=(Expression="/Script/Engine.MaterialExpressionTextureCoordinate'MF_UI_Skew:MaterialExpressionTextureCoordinate_1'")
+      InputName="UVs"
+      Id=EBA62E0345FD8443EDACD8B1AB6E670E
+      InputType=FunctionInput_Vector2
+      bUsePreviewValueAsDefault=True
+      MaterialExpressionEditorX=-1024
+      MaterialExpressionEditorY=224
+      MaterialExpressionGuid=AB0D9495488D639576AF068E781A9FCE
+      Function="/Script/Engine.MaterialFunction'MF_UI_Skew'"
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_2" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionFunctionInput_2'"
+      Preview=(Expression="/Script/Engine.MaterialExpressionConstant'MF_UI_Skew:MaterialExpressionConstant_1'")
+      InputName="Skew rotation"
+      Id=ABDE2415407540B3B89D4FB8C3A568EA
+      InputType=FunctionInput_Scalar
+      bUsePreviewValueAsDefault=True
+      SortPriority=2
+      MaterialExpressionEditorX=-736
+      MaterialExpressionEditorY=432
+      MaterialExpressionGuid=5701327A4904DEE58A3F758633BAD890
+      Function="/Script/Engine.MaterialFunction'MF_UI_Skew'"
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_3" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionFunctionInput_3'"
+      Preview=(Expression="/Script/Engine.MaterialExpressionConstant'MF_UI_Skew:MaterialExpressionConstant_2'")
+      InputName="Skew amount"
+      Id=39712EAF48288FBC9FBC2B90B2260EE5
+      InputType=FunctionInput_Scalar
+      bUsePreviewValueAsDefault=True
+      SortPriority=1
+      MaterialExpressionEditorX=160
+      MaterialExpressionEditorY=432
+      MaterialExpressionGuid=5701327A4904DEE58A3F758633BAD890
+      Function="/Script/Engine.MaterialFunction'MF_UI_Skew'"
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_4" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionFunctionInput_4'"
+      Preview=(Expression="/Script/Engine.MaterialExpressionConstant'MF_UI_Skew:MaterialExpressionConstant_3'")
+      InputName="Alpha feather"
+      Id=34B573EE4504C2841BB726B280D21BCA
+      InputType=FunctionInput_Scalar
+      bUsePreviewValueAsDefault=True
+      SortPriority=1
+      MaterialExpressionEditorX=432
+      MaterialExpressionEditorY=880
+      MaterialExpressionGuid=5701327A4904DEE58A3F758633BAD890
+      Function="/Script/Engine.MaterialFunction'MF_UI_Skew'"
+   End Object
+   Begin Object Name="MaterialExpressionFunctionOutput_1" ExportPath="/Script/Engine.MaterialExpressionFunctionOutput'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionFunctionOutput_1'"
+      OutputName="Skewed UVs"
+      A=(Expression="/Script/Engine.MaterialExpressionNamedRerouteDeclaration'MF_UI_Skew:MaterialExpressionNamedRerouteDeclaration_1'")
+      bLastPreviewed=True
+      Id=D52B3B4643B3857F382E87A5350B3F10
+      MaterialExpressionEditorX=1312
+      MaterialExpressionEditorY=160
+      MaterialExpressionGuid=7D80505F4295B70788D8BC8574AC3538
+      Function="/Script/Engine.MaterialFunction'MF_UI_Skew'"
+   End Object
+   Begin Object Name="MaterialExpressionFunctionOutput_2" ExportPath="/Script/Engine.MaterialExpressionFunctionOutput'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionFunctionOutput_2'"
+      OutputName="Alpha mask"
+      SortPriority=1
+      A=(Expression="/Script/Engine.MaterialExpressionSmoothStep'MF_UI_Skew:MaterialExpressionSmoothStep_1'")
+      bLastPreviewed=True
+      Id=6CA6C18D4D04E624811CD79520BC57FA
+      MaterialExpressionEditorX=1360
+      MaterialExpressionEditorY=928
+      MaterialExpressionGuid=7D80505F4295B70788D8BC8574AC3538
+      Function="/Script/Engine.MaterialFunction'MF_UI_Skew'"
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_0" ExportPath="/Script/Engine.MaterialExpressionLinearInterpolate'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionLinearInterpolate_0'"
+      B=(Expression="/Script/Engine.MaterialExpressionComponentMask'MF_UI_Skew:MaterialExpressionComponentMask_1'")
+      Alpha=(Expression="/Script/Engine.MaterialExpressionFunctionInput'MF_UI_Skew:MaterialExpressionFunctionInput_3'")
+      ConstA=1.000000
+      MaterialExpressionEditorX=440
+      MaterialExpressionEditorY=192
+      MaterialExpressionGuid=CD945A804137F0AAD7AF40A26BE0A9EF
+      Function="/Script/Engine.MaterialFunction'MF_UI_Skew'"
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_0" ExportPath="/Script/Engine.MaterialExpressionMaterialFunctionCall'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionMaterialFunctionCall_0'"
+      MaterialFunction="/Script/Engine.MaterialFunction'/Engine/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.CustomRotator'"
+      FunctionInputs(0)=(ExpressionInputId=45DE7CC04BCC975C664A2AA5DA134FEF,Input=(Expression="/Script/Engine.MaterialExpressionNamedRerouteDeclaration'MF_UI_Skew:MaterialExpressionNamedRerouteDeclaration_0'",InputName="UVs"))
+      FunctionInputs(1)=(ExpressionInputId=9B6953874136DCE4D8E4E8878152CCCE,Input=(InputName="Rotation Center"))
+      FunctionInputs(2)=(ExpressionInputId=D58F67D84CFD4C9D289810AEE4A3EBC8,Input=(Expression="/Script/Engine.MaterialExpressionFunctionInput'MF_UI_Skew:MaterialExpressionFunctionInput_2'",InputName="Rotation Angle (0-1)"))
+      FunctionOutputs(0)=(ExpressionOutputId=35E8F8F94CC8CE3D65F114A234D0BD5E,Output=(OutputName="Rotated Values"))
+      MaterialExpressionEditorX=-336
+      MaterialExpressionEditorY=224
+      MaterialExpressionGuid=105503FC4817AA2513483BBCE597D27E
+      Function="/Script/Engine.MaterialFunction'MF_UI_Skew'"
+      Outputs(0)=(OutputName="Rotated Values")
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_11" ExportPath="/Script/Engine.MaterialExpressionMaterialFunctionCall'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionMaterialFunctionCall_11'"
+      MaterialFunction="/Script/Engine.MaterialFunction'/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.BreakOutFloat2Components'"
+      FunctionInputs(0)=(ExpressionInputId=0FC5C56B4335798F20CB928CF1C87421,Input=(Expression="/Script/Engine.MaterialExpressionOneMinus'MF_UI_Skew:MaterialExpressionOneMinus_2'",InputName="Float2"))
+      FunctionOutputs(0)=(ExpressionOutputId=6BC893C247FCFC567178CE944E213385,Output=(OutputName="R"))
+      FunctionOutputs(1)=(ExpressionOutputId=9720C81E449DF8E5514FCB8A80FD5FA3,Output=(OutputName="G"))
+      MaterialExpressionEditorX=512
+      MaterialExpressionEditorY=1200
+      MaterialExpressionGuid=BFC4E5FF4DD780B2A06F91B4CC448C16
+      Function="/Script/Engine.MaterialFunction'MF_UI_Skew'"
+      Outputs(0)=(OutputName="R")
+      Outputs(1)=(OutputName="G")
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_2" ExportPath="/Script/Engine.MaterialExpressionMaterialFunctionCall'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionMaterialFunctionCall_2'"
+      MaterialFunction="/Script/Engine.MaterialFunction'/Game/UIMaterialLab/MaterialFunctions/Transforms/MF_UI_Scale.MF_UI_Scale'"
+      FunctionInputs(0)=(ExpressionInputId=701F4C34442D1A05D9E747BD436B730F,Input=(Expression="/Script/Engine.MaterialExpressionNamedRerouteUsage'MF_UI_Skew:MaterialExpressionNamedRerouteUsage_0'",InputName="UVs"))
+      FunctionInputs(1)=(ExpressionInputId=22E2BD6A49C8C5B7672EFFBEA3DFB57C,Input=(Expression="/Script/Engine.MaterialExpressionLinearInterpolate'MF_UI_Skew:MaterialExpressionLinearInterpolate_0'",InputName="Scale"))
+      FunctionInputs(2)=(ExpressionInputId=AB43121B44987FDDB1259AA952B41D14,Input=(OutputIndex=-1,InputName="Scale center"))
+      FunctionOutputs(0)=(ExpressionOutputId=8213CACB4ED5EFEAA2A42F885239FAFE,Output=(OutputName="Result"))
+      MaterialExpressionEditorX=704
+      MaterialExpressionEditorY=162
+      MaterialExpressionGuid=7601EE6144196AFC46BC3C8F722EB638
+      Function="/Script/Engine.MaterialFunction'MF_UI_Skew'"
+      Outputs(0)=(OutputName="Result")
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_8" ExportPath="/Script/Engine.MaterialExpressionMaterialFunctionCall'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionMaterialFunctionCall_8'"
+      MaterialFunction="/Script/Engine.MaterialFunction'/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.BreakOutFloat2Components'"
+      FunctionInputs(0)=(ExpressionInputId=0FC5C56B4335798F20CB928CF1C87421,Input=(Expression="/Script/Engine.MaterialExpressionNamedRerouteUsage'MF_UI_Skew:MaterialExpressionNamedRerouteUsage_1'",InputName="Float2"))
+      FunctionOutputs(0)=(ExpressionOutputId=6BC893C247FCFC567178CE944E213385,Output=(OutputName="R"))
+      FunctionOutputs(1)=(ExpressionOutputId=9720C81E449DF8E5514FCB8A80FD5FA3,Output=(OutputName="G"))
+      MaterialExpressionEditorX=512
+      MaterialExpressionEditorY=1088
+      MaterialExpressionGuid=BFC4E5FF4DD780B2A06F91B4CC448C16
+      Function="/Script/Engine.MaterialFunction'MF_UI_Skew'"
+      Outputs(0)=(OutputName="R")
+      Outputs(1)=(OutputName="G")
+   End Object
+   Begin Object Name="MaterialExpressionMin_7" ExportPath="/Script/Engine.MaterialExpressionMin'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionMin_7'"
+      A=(Expression="/Script/Engine.MaterialExpressionMaterialFunctionCall'MF_UI_Skew:MaterialExpressionMaterialFunctionCall_8'")
+      B=(Expression="/Script/Engine.MaterialExpressionMaterialFunctionCall'MF_UI_Skew:MaterialExpressionMaterialFunctionCall_8'",OutputIndex=1)
+      MaterialExpressionEditorX=816
+      MaterialExpressionEditorY=1088
+      MaterialExpressionGuid=9C673C4C4807726658AB818EA02A067E
+      Function="/Script/Engine.MaterialFunction'MF_UI_Skew'"
+   End Object
+   Begin Object Name="MaterialExpressionMin_8" ExportPath="/Script/Engine.MaterialExpressionMin'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionMin_8'"
+      A=(Expression="/Script/Engine.MaterialExpressionMaterialFunctionCall'MF_UI_Skew:MaterialExpressionMaterialFunctionCall_11'")
+      B=(Expression="/Script/Engine.MaterialExpressionMaterialFunctionCall'MF_UI_Skew:MaterialExpressionMaterialFunctionCall_11'",OutputIndex=1)
+      MaterialExpressionEditorX=816
+      MaterialExpressionEditorY=1200
+      MaterialExpressionGuid=9C673C4C4807726658AB818EA02A067E
+      Function="/Script/Engine.MaterialFunction'MF_UI_Skew'"
+   End Object
+   Begin Object Name="MaterialExpressionMin_9" ExportPath="/Script/Engine.MaterialExpressionMin'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionMin_9'"
+      A=(Expression="/Script/Engine.MaterialExpressionMin'MF_UI_Skew:MaterialExpressionMin_7'")
+      B=(Expression="/Script/Engine.MaterialExpressionMin'MF_UI_Skew:MaterialExpressionMin_8'")
+      MaterialExpressionEditorX=992
+      MaterialExpressionEditorY=1120
+      MaterialExpressionGuid=9C673C4C4807726658AB818EA02A067E
+      Function="/Script/Engine.MaterialFunction'MF_UI_Skew'"
+   End Object
+   Begin Object Name="MaterialExpressionNamedRerouteDeclaration_0" ExportPath="/Script/Engine.MaterialExpressionNamedRerouteDeclaration'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionNamedRerouteDeclaration_0'"
+      Input=(Expression="/Script/Engine.MaterialExpressionFunctionInput'MF_UI_Skew:MaterialExpressionFunctionInput_1'")
+      Name="UVs"
+      NodeColor=(R=1.000000,G=0.281250,B=0.000000,A=1.000000)
+      VariableGuid=B33B7A80462FBF4A0F3EC7B09FDE8A5E
+      MaterialExpressionEditorX=-640
+      MaterialExpressionEditorY=224
+      MaterialExpressionGuid=B98C3A8E46F4FC30A015F585305F9146
+      Function="/Script/Engine.MaterialFunction'MF_UI_Skew'"
+   End Object
+   Begin Object Name="MaterialExpressionNamedRerouteDeclaration_1" ExportPath="/Script/Engine.MaterialExpressionNamedRerouteDeclaration'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionNamedRerouteDeclaration_1'"
+      Input=(Expression="/Script/Engine.MaterialExpressionMaterialFunctionCall'MF_UI_Skew:MaterialExpressionMaterialFunctionCall_2'")
+      Name="skewed UVs"
+      NodeColor=(R=0.757812,G=1.000000,B=0.000000,A=1.000000)
+      VariableGuid=DA08C1334ADD66CBB50BC985C6A42F78
+      MaterialExpressionEditorX=1056
+      MaterialExpressionEditorY=160
+      MaterialExpressionGuid=CA68F3AD4B4629A4363EF7B61CE90DB2
+      Function="/Script/Engine.MaterialFunction'MF_UI_Skew'"
+   End Object
+   Begin Object Name="MaterialExpressionNamedRerouteUsage_0" ExportPath="/Script/Engine.MaterialExpressionNamedRerouteUsage'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionNamedRerouteUsage_0'"
+      Declaration="/Script/Engine.MaterialExpressionNamedRerouteDeclaration'MF_UI_Skew:MaterialExpressionNamedRerouteDeclaration_0'"
+      DeclarationGuid=B33B7A80462FBF4A0F3EC7B09FDE8A5E
+      MaterialExpressionEditorX=480
+      MaterialExpressionEditorY=80
+      MaterialExpressionGuid=CF0170C04ABEBCAE657FEEAD4AF561E6
+      Function="/Script/Engine.MaterialFunction'MF_UI_Skew'"
+   End Object
+   Begin Object Name="MaterialExpressionNamedRerouteUsage_1" ExportPath="/Script/Engine.MaterialExpressionNamedRerouteUsage'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionNamedRerouteUsage_1'"
+      Declaration="/Script/Engine.MaterialExpressionNamedRerouteDeclaration'MF_UI_Skew:MaterialExpressionNamedRerouteDeclaration_1'"
+      DeclarationGuid=DA08C1334ADD66CBB50BC985C6A42F78
+      MaterialExpressionEditorX=192
+      MaterialExpressionEditorY=1088
+      MaterialExpressionGuid=0791D4C94E7A1FAB3243A4B977EC5B08
+      Function="/Script/Engine.MaterialFunction'MF_UI_Skew'"
+   End Object
+   Begin Object Name="MaterialExpressionOneMinus_2" ExportPath="/Script/Engine.MaterialExpressionOneMinus'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionOneMinus_2'"
+      Input=(Expression="/Script/Engine.MaterialExpressionNamedRerouteUsage'MF_UI_Skew:MaterialExpressionNamedRerouteUsage_1'")
+      MaterialExpressionEditorX=400
+      MaterialExpressionEditorY=1200
+      MaterialExpressionGuid=1FC2C16444B55F1BD576F090D31F6E25
+      Function="/Script/Engine.MaterialFunction'MF_UI_Skew'"
+   End Object
+   Begin Object Name="MaterialExpressionSmoothStep_1" ExportPath="/Script/Engine.MaterialExpressionSmoothStep'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionSmoothStep_1'"
+      Min=(Expression="/Script/Engine.MaterialExpressionFunctionInput'MF_UI_Skew:MaterialExpressionFunctionInput_0'")
+      Max=(Expression="/Script/Engine.MaterialExpressionAdd'MF_UI_Skew:MaterialExpressionAdd_0'")
+      Value=(Expression="/Script/Engine.MaterialExpressionMin'MF_UI_Skew:MaterialExpressionMin_9'")
+      MaterialExpressionEditorX=1184
+      MaterialExpressionEditorY=928
+      MaterialExpressionGuid=3746FEF84AD6ED3173E74D9C73D9D37C
+      Function="/Script/Engine.MaterialFunction'MF_UI_Skew'"
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_1" ExportPath="/Script/Engine.MaterialExpressionTextureCoordinate'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:MaterialExpressionTextureCoordinate_1'"
+      MaterialExpressionEditorX=-1312
+      MaterialExpressionEditorY=224
+      MaterialExpressionGuid=3A52623E4E6AD4FE02309788D1C37513
+      Function="/Script/Engine.MaterialFunction'MF_UI_Skew'"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0" ExportPath="/Script/UnrealEd.SceneThumbnailInfoWithPrimitive'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:SceneThumbnailInfoWithPrimitive_0'"
+   End Object
+   Begin Object Name="Material_0" ExportPath="/Script/Engine.Material'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:Material_0'"
+      Begin Object Name="Material_0EditorOnlyData" ExportPath="/Script/Engine.MaterialEditorOnlyData'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Skew.MF_UI_Skew:Material_0.Material_0EditorOnlyData'"
+         EmissiveColor=(Expression="/Script/Engine.MaterialExpressionFunctionOutput'MF_UI_Skew:MaterialExpressionFunctionOutput_1'")
+         ExpressionCollection=(Expressions=("/Script/Engine.MaterialExpressionFunctionOutput'MF_UI_Skew:MaterialExpressionFunctionOutput_1'","/Script/Engine.MaterialExpressionTextureCoordinate'MF_UI_Skew:MaterialExpressionTextureCoordinate_1'","/Script/Engine.MaterialExpressionMaterialFunctionCall'MF_UI_Skew:MaterialExpressionMaterialFunctionCall_0'","/Script/Engine.MaterialExpressionConstantBiasScale'MF_UI_Skew:MaterialExpressionConstantBiasScale_0'","/Script/Engine.MaterialExpressionComponentMask'MF_UI_Skew:MaterialExpressionComponentMask_1'","/Script/Engine.MaterialExpressionFunctionInput'MF_UI_Skew:MaterialExpressionFunctionInput_1'","/Script/Engine.MaterialExpressionFunctionInput'MF_UI_Skew:MaterialExpressionFunctionInput_2'","/Script/Engine.MaterialExpressionConstant'MF_UI_Skew:MaterialExpressionConstant_1'","/Script/Engine.MaterialExpressionLinearInterpolate'MF_UI_Skew:MaterialExpressionLinearInterpolate_0'","/Script/Engine.MaterialExpressionFunctionInput'MF_UI_Skew:MaterialExpressionFunctionInput_3'","/Script/Engine.MaterialExpressionConstant'MF_UI_Skew:MaterialExpressionConstant_2'","/Script/Engine.MaterialExpressionNamedRerouteDeclaration'MF_UI_Skew:MaterialExpressionNamedRerouteDeclaration_0'","/Script/Engine.MaterialExpressionNamedRerouteUsage'MF_UI_Skew:MaterialExpressionNamedRerouteUsage_0'","/Script/Engine.MaterialExpressionMaterialFunctionCall'MF_UI_Skew:MaterialExpressionMaterialFunctionCall_8'","/Script/Engine.MaterialExpressionOneMinus'MF_UI_Skew:MaterialExpressionOneMinus_2'","/Script/Engine.MaterialExpressionMaterialFunctionCall'MF_UI_Skew:MaterialExpressionMaterialFunctionCall_11'","/Script/Engine.MaterialExpressionMin'MF_UI_Skew:MaterialExpressionMin_7'","/Script/Engine.MaterialExpressionMin'MF_UI_Skew:MaterialExpressionMin_8'","/Script/Engine.MaterialExpressionMin'MF_UI_Skew:MaterialExpressionMin_9'","/Script/Engine.MaterialExpressionSmoothStep'MF_UI_Skew:MaterialExpressionSmoothStep_1'","/Script/Engine.MaterialExpressionAdd'MF_UI_Skew:MaterialExpressionAdd_0'","/Script/Engine.MaterialExpressionNamedRerouteDeclaration'MF_UI_Skew:MaterialExpressionNamedRerouteDeclaration_1'","/Script/Engine.MaterialExpressionNamedRerouteUsage'MF_UI_Skew:MaterialExpressionNamedRerouteUsage_1'","/Script/Engine.MaterialExpressionFunctionInput'MF_UI_Skew:MaterialExpressionFunctionInput_0'","/Script/Engine.MaterialExpressionConstant'MF_UI_Skew:MaterialExpressionConstant_0'","/Script/Engine.MaterialExpressionFunctionInput'MF_UI_Skew:MaterialExpressionFunctionInput_4'","/Script/Engine.MaterialExpressionConstant'MF_UI_Skew:MaterialExpressionConstant_3'","/Script/Engine.MaterialExpressionFunctionOutput'MF_UI_Skew:MaterialExpressionFunctionOutput_2'","/Script/Engine.MaterialExpressionMaterialFunctionCall'MF_UI_Skew:MaterialExpressionMaterialFunctionCall_2'"))
+      End Object
+      ShadingModel=MSM_Unlit
+      ShadingModels=(ShadingModelField=1)
+      bCanMaskedBeAssumedOpaque=True
+      StateId=03A5DFCB49BD46EAEDFE7BBD3D862AFB
+      EditorOnlyData="/Script/Engine.MaterialEditorOnlyData'Material_0EditorOnlyData'"
+      ThumbnailInfo="/Script/UnrealEd.SceneThumbnailInfoWithPrimitive'MF_UI_Skew:SceneThumbnailInfoWithPrimitive_0'"
+      LightingGuid=042B6B6F40EE4987D4711B963B36F8D3
+   End Object
+   bExposeToLibrary=True
+   LibraryCategoriesText(0)=NSLOCTEXT("", "BA0A445949673C871806899AE243ED12", "UIMaterialLab")
+   DependentFunctionExpressionCandidates(0)="/Script/Engine.MaterialExpressionMaterialFunctionCall'MaterialExpressionMaterialFunctionCall_0'"
+   DependentFunctionExpressionCandidates(1)="/Script/Engine.MaterialExpressionMaterialFunctionCall'MaterialExpressionMaterialFunctionCall_8'"
+   DependentFunctionExpressionCandidates(2)="/Script/Engine.MaterialExpressionMaterialFunctionCall'MaterialExpressionMaterialFunctionCall_11'"
+   DependentFunctionExpressionCandidates(3)="/Script/Engine.MaterialExpressionMaterialFunctionCall'MaterialExpressionMaterialFunctionCall_2'"
+   EditorOnlyData="/Script/Engine.MaterialFunctionEditorOnlyData'MF_UI_SkewEditorOnlyData'"
+   StateId=CB52131C4274B5D492FD9E84B217DFAB
+   CombinedInputTypes=15
+   CombinedOutputTypes=15
+   ThumbnailInfo="/Script/UnrealEd.SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'"
+End Object

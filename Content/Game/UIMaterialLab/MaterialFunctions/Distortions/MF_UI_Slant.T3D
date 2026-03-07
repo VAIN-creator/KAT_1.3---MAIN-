@@ -1,0 +1,175 @@
+Begin Object Class=/Script/Engine.MaterialFunction Name="MF_UI_Slant" ExportPath="/Script/Engine.MaterialFunction'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Slant.MF_UI_Slant'"
+   Begin Object Class=/Script/Engine.MaterialFunctionEditorOnlyData Name="MF_UI_SlantEditorOnlyData" ExportPath="/Script/Engine.MaterialFunctionEditorOnlyData'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Slant.MF_UI_Slant:MF_UI_SlantEditorOnlyData'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_0" ExportPath="/Script/Engine.MaterialExpressionAdd'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Slant.MF_UI_Slant:MaterialExpressionAdd_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_0" ExportPath="/Script/Engine.MaterialExpressionComment'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Slant.MF_UI_Slant:MaterialExpressionComment_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant2Vector Name="MaterialExpressionConstant2Vector_2" ExportPath="/Script/Engine.MaterialExpressionConstant2Vector'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Slant.MF_UI_Slant:MaterialExpressionConstant2Vector_2'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionDivide Name="MaterialExpressionDivide_1" ExportPath="/Script/Engine.MaterialExpressionDivide'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Slant.MF_UI_Slant:MaterialExpressionDivide_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_0" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Slant.MF_UI_Slant:MaterialExpressionFunctionInput_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_1" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Slant.MF_UI_Slant:MaterialExpressionFunctionInput_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionOutput Name="MaterialExpressionFunctionOutput_0" ExportPath="/Script/Engine.MaterialExpressionFunctionOutput'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Slant.MF_UI_Slant:MaterialExpressionFunctionOutput_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_0" ExportPath="/Script/Engine.MaterialExpressionMaterialFunctionCall'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Slant.MF_UI_Slant:MaterialExpressionMaterialFunctionCall_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_3" ExportPath="/Script/Engine.MaterialExpressionMaterialFunctionCall'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Slant.MF_UI_Slant:MaterialExpressionMaterialFunctionCall_3'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_6" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Slant.MF_UI_Slant:MaterialExpressionMultiply_6'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionSubtract Name="MaterialExpressionSubtract_0" ExportPath="/Script/Engine.MaterialExpressionSubtract'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Slant.MF_UI_Slant:MaterialExpressionSubtract_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_0" ExportPath="/Script/Engine.MaterialExpressionTextureCoordinate'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Slant.MF_UI_Slant:MaterialExpressionTextureCoordinate_0'"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0" ExportPath="/Script/UnrealEd.SceneThumbnailInfoWithPrimitive'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Slant.MF_UI_Slant:SceneThumbnailInfoWithPrimitive_0'"
+   End Object
+   Begin Object Class=/Script/Engine.Material Name="Material_0" ExportPath="/Script/Engine.Material'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Slant.MF_UI_Slant:Material_0'"
+      Begin Object Class=/Script/Engine.MaterialEditorOnlyData Name="Material_0EditorOnlyData" ExportPath="/Script/Engine.MaterialEditorOnlyData'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Slant.MF_UI_Slant:Material_0.Material_0EditorOnlyData'"
+      End Object
+   End Object
+   Begin Object Name="MF_UI_SlantEditorOnlyData" ExportPath="/Script/Engine.MaterialFunctionEditorOnlyData'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Slant.MF_UI_Slant:MF_UI_SlantEditorOnlyData'"
+      ExpressionCollection=(Expressions=("/Script/Engine.MaterialExpressionFunctionOutput'MF_UI_Slant:MaterialExpressionFunctionOutput_0'","/Script/Engine.MaterialExpressionTextureCoordinate'MF_UI_Slant:MaterialExpressionTextureCoordinate_0'","/Script/Engine.MaterialExpressionAdd'MF_UI_Slant:MaterialExpressionAdd_0'","/Script/Engine.MaterialExpressionSubtract'MF_UI_Slant:MaterialExpressionSubtract_0'","/Script/Engine.MaterialExpressionDivide'MF_UI_Slant:MaterialExpressionDivide_1'","/Script/Engine.MaterialExpressionMultiply'MF_UI_Slant:MaterialExpressionMultiply_6'","/Script/Engine.MaterialExpressionConstant2Vector'MF_UI_Slant:MaterialExpressionConstant2Vector_2'","/Script/Engine.MaterialExpressionMaterialFunctionCall'MF_UI_Slant:MaterialExpressionMaterialFunctionCall_3'","/Script/Engine.MaterialExpressionFunctionInput'MF_UI_Slant:MaterialExpressionFunctionInput_0'","/Script/Engine.MaterialExpressionFunctionInput'MF_UI_Slant:MaterialExpressionFunctionInput_1'","/Script/Engine.MaterialExpressionMaterialFunctionCall'MF_UI_Slant:MaterialExpressionMaterialFunctionCall_0'"),EditorComments=("/Script/Engine.MaterialExpressionComment'MF_UI_Slant:MaterialExpressionComment_0'"))
+   End Object
+   Begin Object Name="MaterialExpressionAdd_0" ExportPath="/Script/Engine.MaterialExpressionAdd'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Slant.MF_UI_Slant:MaterialExpressionAdd_0'"
+      A=(Expression="/Script/Engine.MaterialExpressionFunctionInput'MF_UI_Slant:MaterialExpressionFunctionInput_0'")
+      B=(Expression="/Script/Engine.MaterialExpressionMaterialFunctionCall'MF_UI_Slant:MaterialExpressionMaterialFunctionCall_3'",OutputIndex=1)
+      MaterialExpressionEditorX=-272
+      MaterialExpressionEditorY=192
+      MaterialExpressionGuid=66EF6B2C46F38A3B71F3AB8CC94F4215
+      Function="/Script/Engine.MaterialFunction'MF_UI_Slant'"
+   End Object
+   Begin Object Name="MaterialExpressionComment_0" ExportPath="/Script/Engine.MaterialExpressionComment'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Slant.MF_UI_Slant:MaterialExpressionComment_0'"
+      SizeX=393
+      SizeY=322
+      Text="Recenter UVs"
+      CommentColor=(R=0.000000,G=0.000000,B=0.000000,A=1.000000)
+      MaterialExpressionEditorX=-320
+      MaterialExpressionEditorY=352
+      MaterialExpressionGuid=155E02864F19A14088F7AEA441FE9C78
+      Function="/Script/Engine.MaterialFunction'MF_UI_Slant'"
+   End Object
+   Begin Object Name="MaterialExpressionConstant2Vector_2" ExportPath="/Script/Engine.MaterialExpressionConstant2Vector'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Slant.MF_UI_Slant:MaterialExpressionConstant2Vector_2'"
+      R=0.250000
+      MaterialExpressionEditorX=-1488
+      MaterialExpressionEditorY=528
+      MaterialExpressionGuid=1B900F7144C3D067AB4D8A8779F6FAE9
+      Function="/Script/Engine.MaterialFunction'MF_UI_Slant'"
+   End Object
+   Begin Object Name="MaterialExpressionDivide_1" ExportPath="/Script/Engine.MaterialExpressionDivide'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Slant.MF_UI_Slant:MaterialExpressionDivide_1'"
+      A=(Expression="/Script/Engine.MaterialExpressionFunctionInput'MF_UI_Slant:MaterialExpressionFunctionInput_1'")
+      MaterialExpressionEditorX=-270
+      MaterialExpressionEditorY=529
+      MaterialExpressionGuid=A8E57F1C44C4CE0637966CA95244075F
+      Function="/Script/Engine.MaterialFunction'MF_UI_Slant'"
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_0" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Slant.MF_UI_Slant:MaterialExpressionFunctionInput_0'"
+      Preview=(Expression="/Script/Engine.MaterialExpressionTextureCoordinate'MF_UI_Slant:MaterialExpressionTextureCoordinate_0'")
+      InputName="UVs"
+      Id=E12E1D68472A00A9A678308FB0C1BCD2
+      InputType=FunctionInput_Vector2
+      bUsePreviewValueAsDefault=True
+      MaterialExpressionEditorX=-1078
+      MaterialExpressionEditorY=192
+      MaterialExpressionGuid=DED0545F4B12B166ABAAFD80E9ABCA6F
+      Function="/Script/Engine.MaterialFunction'MF_UI_Slant'"
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_1" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Slant.MF_UI_Slant:MaterialExpressionFunctionInput_1'"
+      Preview=(Expression="/Script/Engine.MaterialExpressionConstant2Vector'MF_UI_Slant:MaterialExpressionConstant2Vector_2'",Mask=1,MaskR=1,MaskG=1)
+      InputName="Slant amount"
+      Id=CD5B14D8449BD5B8EC4D6A8207796682
+      InputType=FunctionInput_Vector2
+      bUsePreviewValueAsDefault=True
+      SortPriority=1
+      MaterialExpressionEditorX=-1312
+      MaterialExpressionEditorY=528
+      MaterialExpressionGuid=DED0545F4B12B166ABAAFD80E9ABCA6F
+      Function="/Script/Engine.MaterialFunction'MF_UI_Slant'"
+   End Object
+   Begin Object Name="MaterialExpressionFunctionOutput_0" ExportPath="/Script/Engine.MaterialExpressionFunctionOutput'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Slant.MF_UI_Slant:MaterialExpressionFunctionOutput_0'"
+      OutputName="Slanted UVs"
+      A=(Expression="/Script/Engine.MaterialExpressionSubtract'MF_UI_Slant:MaterialExpressionSubtract_0'")
+      bLastPreviewed=True
+      Id=1D074CEA4FEC0CFC1E0C3EB1B3773E5A
+      MaterialExpressionEditorX=176
+      MaterialExpressionEditorY=368
+      MaterialExpressionGuid=F73B74EB4FFAD250C1432AAB21E4DE21
+      Function="/Script/Engine.MaterialFunction'MF_UI_Slant'"
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_0" ExportPath="/Script/Engine.MaterialExpressionMaterialFunctionCall'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Slant.MF_UI_Slant:MaterialExpressionMaterialFunctionCall_0'"
+      MaterialFunction="/Script/Engine.MaterialFunction'/Engine/Functions/Engine_MaterialFunctions02/Utility/Swizzle.Swizzle'"
+      FunctionInputs(0)=(ExpressionInputId=A69F37C24DE1C142F4640887315D5546,Input=(InputName="XYZ"))
+      FunctionInputs(1)=(ExpressionInputId=D3C8F77B43679D265187C8B179744EF3,Input=(Expression="/Script/Engine.MaterialExpressionFunctionInput'MF_UI_Slant:MaterialExpressionFunctionInput_1'",InputName="XY"))
+      FunctionOutputs(0)=(ExpressionOutputId=0C61802A4200305BC12289AE0E4C0A23,Output=(OutputName="YXZ"))
+      FunctionOutputs(1)=(ExpressionOutputId=E29D70BA4C6563818D2F7D8D54BA6015,Output=(OutputName="YX"))
+      MaterialExpressionEditorX=-1024
+      MaterialExpressionEditorY=384
+      MaterialExpressionGuid=E5D616EE4C9DDB12CC8A10998B42F4D4
+      Function="/Script/Engine.MaterialFunction'MF_UI_Slant'"
+      Outputs(0)=(OutputName="YXZ")
+      Outputs(1)=(OutputName="YX")
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_3" ExportPath="/Script/Engine.MaterialExpressionMaterialFunctionCall'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Slant.MF_UI_Slant:MaterialExpressionMaterialFunctionCall_3'"
+      MaterialFunction="/Script/Engine.MaterialFunction'/Engine/Functions/Engine_MaterialFunctions02/Utility/Swizzle.Swizzle'"
+      FunctionInputs(0)=(ExpressionInputId=A69F37C24DE1C142F4640887315D5546,Input=(InputName="XYZ"))
+      FunctionInputs(1)=(ExpressionInputId=D3C8F77B43679D265187C8B179744EF3,Input=(Expression="/Script/Engine.MaterialExpressionMultiply'MF_UI_Slant:MaterialExpressionMultiply_6'",InputName="XY"))
+      FunctionOutputs(0)=(ExpressionOutputId=0C61802A4200305BC12289AE0E4C0A23,Output=(OutputName="YXZ"))
+      FunctionOutputs(1)=(ExpressionOutputId=E29D70BA4C6563818D2F7D8D54BA6015,Output=(OutputName="YX"))
+      MaterialExpressionEditorX=-496
+      MaterialExpressionEditorY=256
+      MaterialExpressionGuid=E5D616EE4C9DDB12CC8A10998B42F4D4
+      Function="/Script/Engine.MaterialFunction'MF_UI_Slant'"
+      Outputs(0)=(OutputName="YXZ")
+      Outputs(1)=(OutputName="YX")
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_6" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Slant.MF_UI_Slant:MaterialExpressionMultiply_6'"
+      A=(Expression="/Script/Engine.MaterialExpressionFunctionInput'MF_UI_Slant:MaterialExpressionFunctionInput_0'")
+      B=(Expression="/Script/Engine.MaterialExpressionMaterialFunctionCall'MF_UI_Slant:MaterialExpressionMaterialFunctionCall_0'",OutputIndex=1)
+      MaterialExpressionEditorX=-720
+      MaterialExpressionEditorY=256
+      MaterialExpressionGuid=37404E6A48A61287F32C4790BE961B62
+      Function="/Script/Engine.MaterialFunction'MF_UI_Slant'"
+      bCollapsed=False
+   End Object
+   Begin Object Name="MaterialExpressionSubtract_0" ExportPath="/Script/Engine.MaterialExpressionSubtract'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Slant.MF_UI_Slant:MaterialExpressionSubtract_0'"
+      A=(Expression="/Script/Engine.MaterialExpressionAdd'MF_UI_Slant:MaterialExpressionAdd_0'")
+      B=(Expression="/Script/Engine.MaterialExpressionDivide'MF_UI_Slant:MaterialExpressionDivide_1'")
+      MaterialExpressionEditorX=-78
+      MaterialExpressionEditorY=402
+      MaterialExpressionGuid=5C2680834D96A799B6ADC19C236C84C6
+      Function="/Script/Engine.MaterialFunction'MF_UI_Slant'"
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_0" ExportPath="/Script/Engine.MaterialExpressionTextureCoordinate'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Slant.MF_UI_Slant:MaterialExpressionTextureCoordinate_0'"
+      MaterialExpressionEditorX=-1360
+      MaterialExpressionEditorY=192
+      MaterialExpressionGuid=5E915FBA4BCE45D5B43223BEEFBB07F5
+      Function="/Script/Engine.MaterialFunction'MF_UI_Slant'"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0" ExportPath="/Script/UnrealEd.SceneThumbnailInfoWithPrimitive'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Slant.MF_UI_Slant:SceneThumbnailInfoWithPrimitive_0'"
+   End Object
+   Begin Object Name="Material_0" ExportPath="/Script/Engine.Material'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Slant.MF_UI_Slant:Material_0'"
+      Begin Object Name="Material_0EditorOnlyData" ExportPath="/Script/Engine.MaterialEditorOnlyData'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_Slant.MF_UI_Slant:Material_0.Material_0EditorOnlyData'"
+         EmissiveColor=(Expression="/Script/Engine.MaterialExpressionFunctionOutput'MF_UI_Slant:MaterialExpressionFunctionOutput_0'")
+         ExpressionCollection=(Expressions=("/Script/Engine.MaterialExpressionFunctionOutput'MF_UI_Slant:MaterialExpressionFunctionOutput_0'","/Script/Engine.MaterialExpressionTextureCoordinate'MF_UI_Slant:MaterialExpressionTextureCoordinate_0'","/Script/Engine.MaterialExpressionAdd'MF_UI_Slant:MaterialExpressionAdd_0'","/Script/Engine.MaterialExpressionSubtract'MF_UI_Slant:MaterialExpressionSubtract_0'","/Script/Engine.MaterialExpressionDivide'MF_UI_Slant:MaterialExpressionDivide_1'","/Script/Engine.MaterialExpressionMultiply'MF_UI_Slant:MaterialExpressionMultiply_6'","/Script/Engine.MaterialExpressionConstant2Vector'MF_UI_Slant:MaterialExpressionConstant2Vector_2'","/Script/Engine.MaterialExpressionMaterialFunctionCall'MF_UI_Slant:MaterialExpressionMaterialFunctionCall_3'","/Script/Engine.MaterialExpressionFunctionInput'MF_UI_Slant:MaterialExpressionFunctionInput_0'","/Script/Engine.MaterialExpressionFunctionInput'MF_UI_Slant:MaterialExpressionFunctionInput_1'","/Script/Engine.MaterialExpressionMaterialFunctionCall'MF_UI_Slant:MaterialExpressionMaterialFunctionCall_0'"),EditorComments=("/Script/Engine.MaterialExpressionComment'MF_UI_Slant:MaterialExpressionComment_0'"))
+      End Object
+      ShadingModel=MSM_Unlit
+      ShadingModels=(ShadingModelField=1)
+      bCanMaskedBeAssumedOpaque=True
+      StateId=E493FCF441A022CCD4AB57B504635010
+      EditorOnlyData="/Script/Engine.MaterialEditorOnlyData'Material_0EditorOnlyData'"
+      ThumbnailInfo="/Script/UnrealEd.SceneThumbnailInfoWithPrimitive'MF_UI_Slant:SceneThumbnailInfoWithPrimitive_0'"
+      LightingGuid=4F68992B4A15F521795A6D9985498436
+   End Object
+   bExposeToLibrary=True
+   LibraryCategoriesText(0)=NSLOCTEXT("", "ACD1F2A647DCD0C1F07FD483A0483277", "UIMaterialLab")
+   DependentFunctionExpressionCandidates(0)="/Script/Engine.MaterialExpressionMaterialFunctionCall'MaterialExpressionMaterialFunctionCall_3'"
+   DependentFunctionExpressionCandidates(1)="/Script/Engine.MaterialExpressionMaterialFunctionCall'MaterialExpressionMaterialFunctionCall_0'"
+   EditorOnlyData="/Script/Engine.MaterialFunctionEditorOnlyData'MF_UI_SlantEditorOnlyData'"
+   StateId=C49D6EA84738C44B4F031BBB16FBC86A
+   CombinedInputTypes=2
+   CombinedOutputTypes=15
+   ThumbnailInfo="/Script/UnrealEd.SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'"
+End Object

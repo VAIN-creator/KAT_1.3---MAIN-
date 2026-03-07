@@ -1,0 +1,506 @@
+Begin Object Class=/Script/Engine.MaterialFunction Name="MF_UI_WaveWarp" ExportPath="/Script/Engine.MaterialFunction'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp'"
+   Begin Object Class=/Script/Engine.MaterialFunctionEditorOnlyData Name="MF_UI_WaveWarpEditorOnlyData" ExportPath="/Script/Engine.MaterialFunctionEditorOnlyData'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MF_UI_WaveWarpEditorOnlyData'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_0" ExportPath="/Script/Engine.MaterialExpressionAdd'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionAdd_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_13" ExportPath="/Script/Engine.MaterialExpressionAdd'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionAdd_13'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_2" ExportPath="/Script/Engine.MaterialExpressionAdd'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionAdd_2'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_3" ExportPath="/Script/Engine.MaterialExpressionAdd'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionAdd_3'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_6" ExportPath="/Script/Engine.MaterialExpressionAdd'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionAdd_6'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAppendVector Name="MaterialExpressionAppendVector_0" ExportPath="/Script/Engine.MaterialExpressionAppendVector'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionAppendVector_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_0" ExportPath="/Script/Engine.MaterialExpressionComment'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionComment_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_1" ExportPath="/Script/Engine.MaterialExpressionComment'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionComment_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_2" ExportPath="/Script/Engine.MaterialExpressionComment'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionComment_2'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_3" ExportPath="/Script/Engine.MaterialExpressionComment'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionComment_3'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComponentMask Name="MaterialExpressionComponentMask_0" ExportPath="/Script/Engine.MaterialExpressionComponentMask'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionComponentMask_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComponentMask Name="MaterialExpressionComponentMask_3" ExportPath="/Script/Engine.MaterialExpressionComponentMask'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionComponentMask_3'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_26" ExportPath="/Script/Engine.MaterialExpressionConstant'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionConstant_26'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_27" ExportPath="/Script/Engine.MaterialExpressionConstant'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionConstant_27'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_28" ExportPath="/Script/Engine.MaterialExpressionConstant'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionConstant_28'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_29" ExportPath="/Script/Engine.MaterialExpressionConstant'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionConstant_29'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_30" ExportPath="/Script/Engine.MaterialExpressionConstant'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionConstant_30'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_0" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionFunctionInput_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_1" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionFunctionInput_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_2" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionFunctionInput_2'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_3" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionFunctionInput_3'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_4" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionFunctionInput_4'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_5" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionFunctionInput_5'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_6" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionFunctionInput_6'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionOutput Name="MaterialExpressionFunctionOutput_1" ExportPath="/Script/Engine.MaterialExpressionFunctionOutput'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionFunctionOutput_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionOutput Name="MaterialExpressionFunctionOutput_2" ExportPath="/Script/Engine.MaterialExpressionFunctionOutput'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionFunctionOutput_2'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_0" ExportPath="/Script/Engine.MaterialExpressionMaterialFunctionCall'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionMaterialFunctionCall_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_10" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionMultiply_10'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_11" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionMultiply_11'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_16" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionMultiply_16'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_6" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionMultiply_6'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionNamedRerouteDeclaration Name="MaterialExpressionNamedRerouteDeclaration_0" ExportPath="/Script/Engine.MaterialExpressionNamedRerouteDeclaration'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionNamedRerouteDeclaration_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionNamedRerouteUsage Name="MaterialExpressionNamedRerouteUsage_0" ExportPath="/Script/Engine.MaterialExpressionNamedRerouteUsage'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionNamedRerouteUsage_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionNamedRerouteUsage Name="MaterialExpressionNamedRerouteUsage_2" ExportPath="/Script/Engine.MaterialExpressionNamedRerouteUsage'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionNamedRerouteUsage_2'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionReroute Name="MaterialExpressionReroute_0" ExportPath="/Script/Engine.MaterialExpressionReroute'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionReroute_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionReroute Name="MaterialExpressionReroute_1" ExportPath="/Script/Engine.MaterialExpressionReroute'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionReroute_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionReroute Name="MaterialExpressionReroute_5" ExportPath="/Script/Engine.MaterialExpressionReroute'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionReroute_5'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionReroute Name="MaterialExpressionReroute_6" ExportPath="/Script/Engine.MaterialExpressionReroute'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionReroute_6'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionReroute Name="MaterialExpressionReroute_7" ExportPath="/Script/Engine.MaterialExpressionReroute'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionReroute_7'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionReroute Name="MaterialExpressionReroute_8" ExportPath="/Script/Engine.MaterialExpressionReroute'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionReroute_8'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionSine Name="MaterialExpressionSine_1" ExportPath="/Script/Engine.MaterialExpressionSine'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionSine_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionSine Name="MaterialExpressionSine_2" ExportPath="/Script/Engine.MaterialExpressionSine'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionSine_2'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_0" ExportPath="/Script/Engine.MaterialExpressionTextureCoordinate'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionTextureCoordinate_0'"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0" ExportPath="/Script/UnrealEd.SceneThumbnailInfoWithPrimitive'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:SceneThumbnailInfoWithPrimitive_0'"
+   End Object
+   Begin Object Class=/Script/Engine.Material Name="Material_0" ExportPath="/Script/Engine.Material'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:Material_0'"
+      Begin Object Class=/Script/Engine.MaterialEditorOnlyData Name="Material_0EditorOnlyData" ExportPath="/Script/Engine.MaterialEditorOnlyData'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:Material_0.Material_0EditorOnlyData'"
+      End Object
+   End Object
+   Begin Object Name="MF_UI_WaveWarpEditorOnlyData" ExportPath="/Script/Engine.MaterialFunctionEditorOnlyData'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MF_UI_WaveWarpEditorOnlyData'"
+      ExpressionCollection=(Expressions=("/Script/Engine.MaterialExpressionFunctionOutput'MF_UI_WaveWarp:MaterialExpressionFunctionOutput_1'","/Script/Engine.MaterialExpressionTextureCoordinate'MF_UI_WaveWarp:MaterialExpressionTextureCoordinate_0'","/Script/Engine.MaterialExpressionComponentMask'MF_UI_WaveWarp:MaterialExpressionComponentMask_0'","/Script/Engine.MaterialExpressionAdd'MF_UI_WaveWarp:MaterialExpressionAdd_2'","/Script/Engine.MaterialExpressionComponentMask'MF_UI_WaveWarp:MaterialExpressionComponentMask_3'","/Script/Engine.MaterialExpressionMultiply'MF_UI_WaveWarp:MaterialExpressionMultiply_10'","/Script/Engine.MaterialExpressionMultiply'MF_UI_WaveWarp:MaterialExpressionMultiply_11'","/Script/Engine.MaterialExpressionConstant'MF_UI_WaveWarp:MaterialExpressionConstant_26'","/Script/Engine.MaterialExpressionConstant'MF_UI_WaveWarp:MaterialExpressionConstant_27'","/Script/Engine.MaterialExpressionConstant'MF_UI_WaveWarp:MaterialExpressionConstant_28'","/Script/Engine.MaterialExpressionSine'MF_UI_WaveWarp:MaterialExpressionSine_1'","/Script/Engine.MaterialExpressionAdd'MF_UI_WaveWarp:MaterialExpressionAdd_3'","/Script/Engine.MaterialExpressionAdd'MF_UI_WaveWarp:MaterialExpressionAdd_6'","/Script/Engine.MaterialExpressionSine'MF_UI_WaveWarp:MaterialExpressionSine_2'","/Script/Engine.MaterialExpressionReroute'MF_UI_WaveWarp:MaterialExpressionReroute_5'","/Script/Engine.MaterialExpressionReroute'MF_UI_WaveWarp:MaterialExpressionReroute_6'","/Script/Engine.MaterialExpressionReroute'MF_UI_WaveWarp:MaterialExpressionReroute_7'","/Script/Engine.MaterialExpressionReroute'MF_UI_WaveWarp:MaterialExpressionReroute_8'","/Script/Engine.MaterialExpressionConstant'MF_UI_WaveWarp:MaterialExpressionConstant_29'","/Script/Engine.MaterialExpressionConstant'MF_UI_WaveWarp:MaterialExpressionConstant_30'","/Script/Engine.MaterialExpressionMultiply'MF_UI_WaveWarp:MaterialExpressionMultiply_6'","/Script/Engine.MaterialExpressionAppendVector'MF_UI_WaveWarp:MaterialExpressionAppendVector_0'","/Script/Engine.MaterialExpressionMultiply'MF_UI_WaveWarp:MaterialExpressionMultiply_16'","/Script/Engine.MaterialExpressionAdd'MF_UI_WaveWarp:MaterialExpressionAdd_13'","/Script/Engine.MaterialExpressionFunctionInput'MF_UI_WaveWarp:MaterialExpressionFunctionInput_0'","/Script/Engine.MaterialExpressionFunctionInput'MF_UI_WaveWarp:MaterialExpressionFunctionInput_1'","/Script/Engine.MaterialExpressionFunctionInput'MF_UI_WaveWarp:MaterialExpressionFunctionInput_2'","/Script/Engine.MaterialExpressionFunctionInput'MF_UI_WaveWarp:MaterialExpressionFunctionInput_3'","/Script/Engine.MaterialExpressionFunctionInput'MF_UI_WaveWarp:MaterialExpressionFunctionInput_4'","/Script/Engine.MaterialExpressionReroute'MF_UI_WaveWarp:MaterialExpressionReroute_0'","/Script/Engine.MaterialExpressionReroute'MF_UI_WaveWarp:MaterialExpressionReroute_1'","/Script/Engine.MaterialExpressionFunctionInput'MF_UI_WaveWarp:MaterialExpressionFunctionInput_5'","/Script/Engine.MaterialExpressionFunctionInput'MF_UI_WaveWarp:MaterialExpressionFunctionInput_6'","/Script/Engine.MaterialExpressionNamedRerouteDeclaration'MF_UI_WaveWarp:MaterialExpressionNamedRerouteDeclaration_0'","/Script/Engine.MaterialExpressionNamedRerouteUsage'MF_UI_WaveWarp:MaterialExpressionNamedRerouteUsage_0'","/Script/Engine.MaterialExpressionFunctionOutput'MF_UI_WaveWarp:MaterialExpressionFunctionOutput_2'","/Script/Engine.MaterialExpressionNamedRerouteUsage'MF_UI_WaveWarp:MaterialExpressionNamedRerouteUsage_2'","/Script/Engine.MaterialExpressionAdd'MF_UI_WaveWarp:MaterialExpressionAdd_0'","/Script/Engine.MaterialExpressionMaterialFunctionCall'MF_UI_WaveWarp:MaterialExpressionMaterialFunctionCall_0'"),EditorComments=("/Script/Engine.MaterialExpressionComment'MF_UI_WaveWarp:MaterialExpressionComment_0'","/Script/Engine.MaterialExpressionComment'MF_UI_WaveWarp:MaterialExpressionComment_1'","/Script/Engine.MaterialExpressionComment'MF_UI_WaveWarp:MaterialExpressionComment_2'","/Script/Engine.MaterialExpressionComment'MF_UI_WaveWarp:MaterialExpressionComment_3'"))
+   End Object
+   Begin Object Name="MaterialExpressionAdd_0" ExportPath="/Script/Engine.MaterialExpressionAdd'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionAdd_0'"
+      A=(Expression="/Script/Engine.MaterialExpressionFunctionInput'MF_UI_WaveWarp:MaterialExpressionFunctionInput_0'")
+      B=(Expression="/Script/Engine.MaterialExpressionFunctionInput'MF_UI_WaveWarp:MaterialExpressionFunctionInput_1'")
+      MaterialExpressionEditorX=144
+      MaterialExpressionEditorY=96
+      MaterialExpressionGuid=66C7B2C945A80C81C78E60B51824A4D1
+      Function="/Script/Engine.MaterialFunction'MF_UI_WaveWarp'"
+   End Object
+   Begin Object Name="MaterialExpressionAdd_13" ExportPath="/Script/Engine.MaterialExpressionAdd'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionAdd_13'"
+      A=(Expression="/Script/Engine.MaterialExpressionNamedRerouteUsage'MF_UI_WaveWarp:MaterialExpressionNamedRerouteUsage_2'")
+      B=(Expression="/Script/Engine.MaterialExpressionAppendVector'MF_UI_WaveWarp:MaterialExpressionAppendVector_0'")
+      MaterialExpressionEditorX=2000
+      MaterialExpressionEditorY=208
+      MaterialExpressionGuid=7D9BDE514A3F9E1F4299BFB9C86E458C
+      Function="/Script/Engine.MaterialFunction'MF_UI_WaveWarp'"
+   End Object
+   Begin Object Name="MaterialExpressionAdd_2" ExportPath="/Script/Engine.MaterialExpressionAdd'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionAdd_2'"
+      A=(Expression="/Script/Engine.MaterialExpressionMultiply'MF_UI_WaveWarp:MaterialExpressionMultiply_10'")
+      B=(Expression="/Script/Engine.MaterialExpressionMultiply'MF_UI_WaveWarp:MaterialExpressionMultiply_11'")
+      ConstB=0.500000
+      MaterialExpressionEditorX=176
+      MaterialExpressionEditorY=672
+      MaterialExpressionGuid=80D3A26D47238EAAEAE0F293D3B31D72
+      Function="/Script/Engine.MaterialFunction'MF_UI_WaveWarp'"
+   End Object
+   Begin Object Name="MaterialExpressionAdd_3" ExportPath="/Script/Engine.MaterialExpressionAdd'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionAdd_3'"
+      A=(Expression="/Script/Engine.MaterialExpressionReroute'MF_UI_WaveWarp:MaterialExpressionReroute_8'")
+      B=(Expression="/Script/Engine.MaterialExpressionReroute'MF_UI_WaveWarp:MaterialExpressionReroute_7'")
+      MaterialExpressionEditorX=896
+      MaterialExpressionEditorY=256
+      MaterialExpressionGuid=1AC33AC6467BB4A50CAC0FB3C8524427
+      Function="/Script/Engine.MaterialFunction'MF_UI_WaveWarp'"
+   End Object
+   Begin Object Name="MaterialExpressionAdd_6" ExportPath="/Script/Engine.MaterialExpressionAdd'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionAdd_6'"
+      A=(Expression="/Script/Engine.MaterialExpressionReroute'MF_UI_WaveWarp:MaterialExpressionReroute_6'")
+      B=(Expression="/Script/Engine.MaterialExpressionReroute'MF_UI_WaveWarp:MaterialExpressionReroute_5'")
+      MaterialExpressionEditorX=912
+      MaterialExpressionEditorY=624
+      MaterialExpressionGuid=1AC33AC6467BB4A50CAC0FB3C8524427
+      Function="/Script/Engine.MaterialFunction'MF_UI_WaveWarp'"
+   End Object
+   Begin Object Name="MaterialExpressionAppendVector_0" ExportPath="/Script/Engine.MaterialExpressionAppendVector'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionAppendVector_0'"
+      A=(Expression="/Script/Engine.MaterialExpressionMultiply'MF_UI_WaveWarp:MaterialExpressionMultiply_6'")
+      B=(Expression="/Script/Engine.MaterialExpressionMultiply'MF_UI_WaveWarp:MaterialExpressionMultiply_16'")
+      MaterialExpressionEditorX=1488
+      MaterialExpressionEditorY=480
+      MaterialExpressionGuid=A0F4DE724C5EF05E8D90BDA7FED09A2B
+      Function="/Script/Engine.MaterialFunction'MF_UI_WaveWarp'"
+   End Object
+   Begin Object Name="MaterialExpressionComment_0" ExportPath="/Script/Engine.MaterialExpressionComment'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionComment_0'"
+      SizeX=832
+      SizeY=576
+      Text="Wave phase: can be static or animated (gives more variation)"
+      MaterialExpressionEditorX=-544
+      MaterialExpressionEditorY=-80
+      MaterialExpressionGuid=C04EBE9749C62AC5223AA89E940B2656
+      Function="/Script/Engine.MaterialFunction'MF_UI_WaveWarp'"
+   End Object
+   Begin Object Name="MaterialExpressionComment_1" ExportPath="/Script/Engine.MaterialExpressionComment'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionComment_1'"
+      SizeX=853
+      SizeY=825
+      Text="Wave frequency: how frequent the \"ripples\" are"
+      MaterialExpressionEditorX=-544
+      MaterialExpressionEditorY=576
+      MaterialExpressionGuid=FDF363734A587DCCC08FDA9C6652EB3B
+      Function="/Script/Engine.MaterialFunction'MF_UI_WaveWarp'"
+   End Object
+   Begin Object Name="MaterialExpressionComment_2" ExportPath="/Script/Engine.MaterialExpressionComment'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionComment_2'"
+      SizeX=928
+      SizeY=800
+      Text="Wave amplitude: how intensely is the shape distorted horizontally and vertically"
+      MaterialExpressionEditorX=704
+      MaterialExpressionEditorY=192
+      MaterialExpressionGuid=C6316799451D8C55F1BB1C89CAE29469
+      Function="/Script/Engine.MaterialFunction'MF_UI_WaveWarp'"
+   End Object
+   Begin Object Name="MaterialExpressionComment_3" ExportPath="/Script/Engine.MaterialExpressionComment'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionComment_3'"
+      SizeX=400
+      SizeY=288
+      Text="Apply the distortion to the original coordinates"
+      MaterialExpressionEditorX=1728
+      MaterialExpressionEditorY=64
+      MaterialExpressionGuid=CEB672F44BD6A459F28E31989A27C99D
+      Function="/Script/Engine.MaterialFunction'MF_UI_WaveWarp'"
+   End Object
+   Begin Object Name="MaterialExpressionComponentMask_0" ExportPath="/Script/Engine.MaterialExpressionComponentMask'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionComponentMask_0'"
+      Input=(Expression="/Script/Engine.MaterialExpressionReroute'MF_UI_WaveWarp:MaterialExpressionReroute_0'")
+      R=True
+      MaterialExpressionEditorX=-224
+      MaterialExpressionEditorY=624
+      MaterialExpressionGuid=9DF73C2F4F255DFDD96EE4B8FA0ABAC0
+      Function="/Script/Engine.MaterialFunction'MF_UI_WaveWarp'"
+   End Object
+   Begin Object Name="MaterialExpressionComponentMask_3" ExportPath="/Script/Engine.MaterialExpressionComponentMask'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionComponentMask_3'"
+      Input=(Expression="/Script/Engine.MaterialExpressionReroute'MF_UI_WaveWarp:MaterialExpressionReroute_1'")
+      G=True
+      MaterialExpressionEditorX=-208
+      MaterialExpressionEditorY=1024
+      MaterialExpressionGuid=9DF73C2F4F255DFDD96EE4B8FA0ABAC0
+      Function="/Script/Engine.MaterialFunction'MF_UI_WaveWarp'"
+   End Object
+   Begin Object Name="MaterialExpressionConstant_26" ExportPath="/Script/Engine.MaterialExpressionConstant'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionConstant_26'"
+      MaterialExpressionEditorX=-304
+      MaterialExpressionGuid=8D0F48134830BA501FCD2BAEBCB8C096
+      Function="/Script/Engine.MaterialFunction'MF_UI_WaveWarp'"
+      Desc="Phase"
+      bCommentBubbleVisible=True
+   End Object
+   Begin Object Name="MaterialExpressionConstant_27" ExportPath="/Script/Engine.MaterialExpressionConstant'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionConstant_27'"
+      R=5.000000
+      MaterialExpressionEditorX=-496
+      MaterialExpressionEditorY=784
+      MaterialExpressionGuid=4D80B9994F1A5E964EA5E593C8F852E3
+      Function="/Script/Engine.MaterialFunction'MF_UI_WaveWarp'"
+      Desc="frequency X"
+      bCommentBubbleVisible=True
+   End Object
+   Begin Object Name="MaterialExpressionConstant_28" ExportPath="/Script/Engine.MaterialExpressionConstant'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionConstant_28'"
+      R=5.000000
+      MaterialExpressionEditorX=-496
+      MaterialExpressionEditorY=1184
+      MaterialExpressionGuid=F93057C74C26B6E8B92A67A83E93146A
+      Function="/Script/Engine.MaterialFunction'MF_UI_WaveWarp'"
+      Desc="frequency Y"
+      bCommentBubbleVisible=True
+   End Object
+   Begin Object Name="MaterialExpressionConstant_29" ExportPath="/Script/Engine.MaterialExpressionConstant'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionConstant_29'"
+      R=0.070000
+      MaterialExpressionEditorX=800
+      MaterialExpressionEditorY=384
+      MaterialExpressionGuid=AE470CAA47A574A60C3C67B126BC74C3
+      Function="/Script/Engine.MaterialFunction'MF_UI_WaveWarp'"
+   End Object
+   Begin Object Name="MaterialExpressionConstant_30" ExportPath="/Script/Engine.MaterialExpressionConstant'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionConstant_30'"
+      R=0.050000
+      MaterialExpressionEditorX=800
+      MaterialExpressionEditorY=768
+      MaterialExpressionGuid=AE470CAA47A574A60C3C67B126BC74C3
+      Function="/Script/Engine.MaterialFunction'MF_UI_WaveWarp'"
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_0" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionFunctionInput_0'"
+      Preview=(Expression="/Script/Engine.MaterialExpressionConstant'MF_UI_WaveWarp:MaterialExpressionConstant_26'")
+      InputName="Phase"
+      Id=B09FC8B943D56643FBF8848C16202664
+      InputType=FunctionInput_Scalar
+      bUsePreviewValueAsDefault=True
+      SortPriority=5
+      MaterialExpressionEditorX=-112
+      MaterialExpressionGuid=5052B2244B5C10429C84EC89A5E10E41
+      Function="/Script/Engine.MaterialFunction'MF_UI_WaveWarp'"
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_1" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionFunctionInput_1'"
+      Preview=(Expression="/Script/Engine.MaterialExpressionMaterialFunctionCall'MF_UI_WaveWarp:MaterialExpressionMaterialFunctionCall_0'")
+      InputName="Motion"
+      Id=F828A4274B1AE1B2299A22B3C1B06388
+      InputType=FunctionInput_Scalar
+      bUsePreviewValueAsDefault=True
+      SortPriority=6
+      MaterialExpressionEditorX=-112
+      MaterialExpressionEditorY=208
+      MaterialExpressionGuid=5052B2244B5C10429C84EC89A5E10E41
+      Function="/Script/Engine.MaterialFunction'MF_UI_WaveWarp'"
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_2" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionFunctionInput_2'"
+      Preview=(Expression="/Script/Engine.MaterialExpressionConstant'MF_UI_WaveWarp:MaterialExpressionConstant_27'")
+      InputName="Frequency X"
+      Id=9CF1FAA94A11514F33D503AD67783BFC
+      InputType=FunctionInput_Scalar
+      bUsePreviewValueAsDefault=True
+      SortPriority=3
+      MaterialExpressionEditorX=-288
+      MaterialExpressionEditorY=784
+      MaterialExpressionGuid=99B45ED6494F090441E263A75BF942B8
+      Function="/Script/Engine.MaterialFunction'MF_UI_WaveWarp'"
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_3" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionFunctionInput_3'"
+      Preview=(Expression="/Script/Engine.MaterialExpressionConstant'MF_UI_WaveWarp:MaterialExpressionConstant_28'")
+      InputName="Frequency Y"
+      Id=59AC5B23478AD7E674B9328E26B68326
+      InputType=FunctionInput_Scalar
+      bUsePreviewValueAsDefault=True
+      SortPriority=4
+      MaterialExpressionEditorX=-288
+      MaterialExpressionEditorY=1184
+      MaterialExpressionGuid=FD4F1A8140FC3CABFB7E4F835E51FDF0
+      Function="/Script/Engine.MaterialFunction'MF_UI_WaveWarp'"
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_4" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionFunctionInput_4'"
+      Preview=(Expression="/Script/Engine.MaterialExpressionTextureCoordinate'MF_UI_WaveWarp:MaterialExpressionTextureCoordinate_0'")
+      InputName="UVs"
+      Id=B2DBC44C4701212EF81CC3B270405AA3
+      InputType=FunctionInput_Vector2
+      bUsePreviewValueAsDefault=True
+      SortPriority=-1
+      MaterialExpressionEditorX=-1248
+      MaterialExpressionEditorY=512
+      MaterialExpressionGuid=F38B65CA42E0F9AB3CC02582B08167A9
+      Function="/Script/Engine.MaterialFunction'MF_UI_WaveWarp'"
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_5" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionFunctionInput_5'"
+      Preview=(Expression="/Script/Engine.MaterialExpressionConstant'MF_UI_WaveWarp:MaterialExpressionConstant_29'")
+      InputName="Amplitude X"
+      Id=D54E82BF4C890AD28BADB4BCB1A79635
+      InputType=FunctionInput_Scalar
+      bUsePreviewValueAsDefault=True
+      SortPriority=1
+      MaterialExpressionEditorX=976
+      MaterialExpressionEditorY=384
+      MaterialExpressionGuid=1B5816414CB4A9AB5F3E36835F4A2459
+      Function="/Script/Engine.MaterialFunction'MF_UI_WaveWarp'"
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_6" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionFunctionInput_6'"
+      Preview=(Expression="/Script/Engine.MaterialExpressionConstant'MF_UI_WaveWarp:MaterialExpressionConstant_30'")
+      InputName="Amplitude Y"
+      Id=93681F724A93EBBCA5BFA294FC272A81
+      InputType=FunctionInput_Scalar
+      bUsePreviewValueAsDefault=True
+      SortPriority=2
+      MaterialExpressionEditorX=976
+      MaterialExpressionEditorY=768
+      MaterialExpressionGuid=A6064FD74689E76D3C909399BB5D693E
+      Function="/Script/Engine.MaterialFunction'MF_UI_WaveWarp'"
+   End Object
+   Begin Object Name="MaterialExpressionFunctionOutput_1" ExportPath="/Script/Engine.MaterialExpressionFunctionOutput'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionFunctionOutput_1'"
+      OutputName="Warped UVs"
+      Description="Distortion already applied to input UVs"
+      A=(Expression="/Script/Engine.MaterialExpressionAdd'MF_UI_WaveWarp:MaterialExpressionAdd_13'")
+      bLastPreviewed=True
+      Id=97313FB74DE05275CF4B11A0C6354D78
+      MaterialExpressionEditorX=2320
+      MaterialExpressionEditorY=176
+      MaterialExpressionGuid=59BDC3DC4F9FE81620C783937A320773
+      Function="/Script/Engine.MaterialFunction'MF_UI_WaveWarp'"
+   End Object
+   Begin Object Name="MaterialExpressionFunctionOutput_2" ExportPath="/Script/Engine.MaterialExpressionFunctionOutput'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionFunctionOutput_2'"
+      OutputName="Raw Distortion"
+      Description="Raw distortion needs to be added to UVs to take effect"
+      SortPriority=1
+      A=(Expression="/Script/Engine.MaterialExpressionAppendVector'MF_UI_WaveWarp:MaterialExpressionAppendVector_0'")
+      bLastPreviewed=True
+      Id=BC6731E14ED6DC4FD261938451292CC4
+      MaterialExpressionEditorX=2320
+      MaterialExpressionEditorY=432
+      MaterialExpressionGuid=59BDC3DC4F9FE81620C783937A320773
+      Function="/Script/Engine.MaterialFunction'MF_UI_WaveWarp'"
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_0" ExportPath="/Script/Engine.MaterialExpressionMaterialFunctionCall'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionMaterialFunctionCall_0'"
+      MaterialFunction="/Script/Engine.MaterialFunction'/Game/UIMaterialLab/MaterialFunctions/Time/MF_UI_LinearTime.MF_UI_LinearTime'"
+      FunctionInputs(0)=(ExpressionInputId=998C83714E608E69B2F857BF5D833605,Input=(OutputIndex=-1,InputName="FloatValue"))
+      FunctionInputs(1)=(ExpressionInputId=639663184CFC6B2B420E439C96F9E022,Input=(OutputIndex=-1,InputName="Speed"))
+      FunctionOutputs(0)=(ExpressionOutputId=4040B9CC42CFBC166AEB8181B74247B1,Output=(OutputName="0-1 Loop"))
+      FunctionOutputs(1)=(ExpressionOutputId=A56A9DBD4B83BC53419873A85337B1D4,Output=(OutputName="0-1 Ping pong"))
+      FunctionOutputs(2)=(ExpressionOutputId=5F5D55C94381274530D61AB17AEE9EBC,Output=(OutputName="0-1 Switch"))
+      MaterialExpressionEditorX=-432
+      MaterialExpressionEditorY=208
+      MaterialExpressionGuid=4A2BCBA84938007E11FD94AF0FA4B8A2
+      Function="/Script/Engine.MaterialFunction'MF_UI_WaveWarp'"
+      Outputs(0)=(OutputName="0-1 Loop")
+      Outputs(1)=(OutputName="0-1 Ping pong")
+      Outputs(2)=(OutputName="0-1 Switch")
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_10" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionMultiply_10'"
+      A=(Expression="/Script/Engine.MaterialExpressionComponentMask'MF_UI_WaveWarp:MaterialExpressionComponentMask_0'")
+      B=(Expression="/Script/Engine.MaterialExpressionFunctionInput'MF_UI_WaveWarp:MaterialExpressionFunctionInput_2'")
+      ConstB=0.500000
+      MaterialExpressionEditorY=624
+      MaterialExpressionGuid=E95099FF45362A2B36CF4288499D206B
+      Function="/Script/Engine.MaterialFunction'MF_UI_WaveWarp'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_11" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionMultiply_11'"
+      A=(Expression="/Script/Engine.MaterialExpressionComponentMask'MF_UI_WaveWarp:MaterialExpressionComponentMask_3'")
+      B=(Expression="/Script/Engine.MaterialExpressionFunctionInput'MF_UI_WaveWarp:MaterialExpressionFunctionInput_3'")
+      ConstB=0.500000
+      MaterialExpressionEditorX=16
+      MaterialExpressionEditorY=1024
+      MaterialExpressionGuid=E95099FF45362A2B36CF4288499D206B
+      Function="/Script/Engine.MaterialFunction'MF_UI_WaveWarp'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_16" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionMultiply_16'"
+      A=(Expression="/Script/Engine.MaterialExpressionSine'MF_UI_WaveWarp:MaterialExpressionSine_2'")
+      B=(Expression="/Script/Engine.MaterialExpressionFunctionInput'MF_UI_WaveWarp:MaterialExpressionFunctionInput_6'")
+      ConstB=0.000000
+      MaterialExpressionEditorX=1216
+      MaterialExpressionEditorY=624
+      MaterialExpressionGuid=E95099FF45362A2B36CF4288499D206B
+      Function="/Script/Engine.MaterialFunction'MF_UI_WaveWarp'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_6" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionMultiply_6'"
+      A=(Expression="/Script/Engine.MaterialExpressionSine'MF_UI_WaveWarp:MaterialExpressionSine_1'")
+      B=(Expression="/Script/Engine.MaterialExpressionFunctionInput'MF_UI_WaveWarp:MaterialExpressionFunctionInput_5'")
+      ConstB=0.000000
+      MaterialExpressionEditorX=1200
+      MaterialExpressionEditorY=256
+      MaterialExpressionGuid=E95099FF45362A2B36CF4288499D206B
+      Function="/Script/Engine.MaterialFunction'MF_UI_WaveWarp'"
+   End Object
+   Begin Object Name="MaterialExpressionNamedRerouteDeclaration_0" ExportPath="/Script/Engine.MaterialExpressionNamedRerouteDeclaration'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionNamedRerouteDeclaration_0'"
+      Input=(Expression="/Script/Engine.MaterialExpressionFunctionInput'MF_UI_WaveWarp:MaterialExpressionFunctionInput_4'")
+      Name="input uvs"
+      NodeColor=(R=1.000000,G=0.000000,B=0.843750,A=1.000000)
+      VariableGuid=0ACF84054E5E2E3CF61E558FCF409779
+      MaterialExpressionEditorX=-1008
+      MaterialExpressionEditorY=512
+      MaterialExpressionGuid=95304DC64F6299846027C297CF56C5EC
+      Function="/Script/Engine.MaterialFunction'MF_UI_WaveWarp'"
+   End Object
+   Begin Object Name="MaterialExpressionNamedRerouteUsage_0" ExportPath="/Script/Engine.MaterialExpressionNamedRerouteUsage'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionNamedRerouteUsage_0'"
+      Declaration="/Script/Engine.MaterialExpressionNamedRerouteDeclaration'MF_UI_WaveWarp:MaterialExpressionNamedRerouteDeclaration_0'"
+      DeclarationGuid=0ACF84054E5E2E3CF61E558FCF409779
+      MaterialExpressionEditorX=-800
+      MaterialExpressionEditorY=784
+      MaterialExpressionGuid=0B0AF2F043D151CDBBC8CA95DCA66609
+      Function="/Script/Engine.MaterialFunction'MF_UI_WaveWarp'"
+   End Object
+   Begin Object Name="MaterialExpressionNamedRerouteUsage_2" ExportPath="/Script/Engine.MaterialExpressionNamedRerouteUsage'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionNamedRerouteUsage_2'"
+      Declaration="/Script/Engine.MaterialExpressionNamedRerouteDeclaration'MF_UI_WaveWarp:MaterialExpressionNamedRerouteDeclaration_0'"
+      DeclarationGuid=0ACF84054E5E2E3CF61E558FCF409779
+      MaterialExpressionEditorX=1808
+      MaterialExpressionEditorY=160
+      MaterialExpressionGuid=0B0AF2F043D151CDBBC8CA95DCA66609
+      Function="/Script/Engine.MaterialFunction'MF_UI_WaveWarp'"
+   End Object
+   Begin Object Name="MaterialExpressionReroute_0" ExportPath="/Script/Engine.MaterialExpressionReroute'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionReroute_0'"
+      Input=(Expression="/Script/Engine.MaterialExpressionNamedRerouteUsage'MF_UI_WaveWarp:MaterialExpressionNamedRerouteUsage_0'")
+      MaterialExpressionEditorX=-496
+      MaterialExpressionEditorY=656
+      MaterialExpressionGuid=CDF554AB4F0B786DFDED6CBDA74AFE42
+      Function="/Script/Engine.MaterialFunction'MF_UI_WaveWarp'"
+   End Object
+   Begin Object Name="MaterialExpressionReroute_1" ExportPath="/Script/Engine.MaterialExpressionReroute'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionReroute_1'"
+      Input=(Expression="/Script/Engine.MaterialExpressionNamedRerouteUsage'MF_UI_WaveWarp:MaterialExpressionNamedRerouteUsage_0'")
+      MaterialExpressionEditorX=-496
+      MaterialExpressionEditorY=1056
+      MaterialExpressionGuid=7A8370D84FFE5D221A0D788A8CA391A4
+      Function="/Script/Engine.MaterialFunction'MF_UI_WaveWarp'"
+   End Object
+   Begin Object Name="MaterialExpressionReroute_5" ExportPath="/Script/Engine.MaterialExpressionReroute'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionReroute_5'"
+      Input=(Expression="/Script/Engine.MaterialExpressionAdd'MF_UI_WaveWarp:MaterialExpressionAdd_0'")
+      MaterialExpressionEditorX=768
+      MaterialExpressionEditorY=688
+      MaterialExpressionGuid=837740C7429895484F41B0A361AED431
+      Function="/Script/Engine.MaterialFunction'MF_UI_WaveWarp'"
+   End Object
+   Begin Object Name="MaterialExpressionReroute_6" ExportPath="/Script/Engine.MaterialExpressionReroute'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionReroute_6'"
+      Input=(Expression="/Script/Engine.MaterialExpressionAdd'MF_UI_WaveWarp:MaterialExpressionAdd_2'")
+      MaterialExpressionEditorX=768
+      MaterialExpressionEditorY=656
+      MaterialExpressionGuid=4DDA87504A1979FB646996A0EA2412B9
+      Function="/Script/Engine.MaterialFunction'MF_UI_WaveWarp'"
+   End Object
+   Begin Object Name="MaterialExpressionReroute_7" ExportPath="/Script/Engine.MaterialExpressionReroute'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionReroute_7'"
+      Input=(Expression="/Script/Engine.MaterialExpressionAdd'MF_UI_WaveWarp:MaterialExpressionAdd_2'")
+      MaterialExpressionEditorX=752
+      MaterialExpressionEditorY=320
+      MaterialExpressionGuid=D31CCD4E478AA8EFA899BEBBCE5D7E97
+      Function="/Script/Engine.MaterialFunction'MF_UI_WaveWarp'"
+   End Object
+   Begin Object Name="MaterialExpressionReroute_8" ExportPath="/Script/Engine.MaterialExpressionReroute'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionReroute_8'"
+      Input=(Expression="/Script/Engine.MaterialExpressionAdd'MF_UI_WaveWarp:MaterialExpressionAdd_0'")
+      MaterialExpressionEditorX=752
+      MaterialExpressionEditorY=288
+      MaterialExpressionGuid=608968D442E78C5677A9F5B447A41E2A
+      Function="/Script/Engine.MaterialFunction'MF_UI_WaveWarp'"
+   End Object
+   Begin Object Name="MaterialExpressionSine_1" ExportPath="/Script/Engine.MaterialExpressionSine'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionSine_1'"
+      Input=(Expression="/Script/Engine.MaterialExpressionAdd'MF_UI_WaveWarp:MaterialExpressionAdd_3'")
+      MaterialExpressionEditorX=1040
+      MaterialExpressionEditorY=256
+      MaterialExpressionGuid=2C59C5374FC3E21A893E269B00AC0210
+      Function="/Script/Engine.MaterialFunction'MF_UI_WaveWarp'"
+   End Object
+   Begin Object Name="MaterialExpressionSine_2" ExportPath="/Script/Engine.MaterialExpressionSine'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionSine_2'"
+      Input=(Expression="/Script/Engine.MaterialExpressionAdd'MF_UI_WaveWarp:MaterialExpressionAdd_6'")
+      MaterialExpressionEditorX=1056
+      MaterialExpressionEditorY=624
+      MaterialExpressionGuid=2C59C5374FC3E21A893E269B00AC0210
+      Function="/Script/Engine.MaterialFunction'MF_UI_WaveWarp'"
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_0" ExportPath="/Script/Engine.MaterialExpressionTextureCoordinate'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:MaterialExpressionTextureCoordinate_0'"
+      MaterialExpressionEditorX=-1488
+      MaterialExpressionEditorY=512
+      MaterialExpressionGuid=7D0B7AAD4697EBDC6D2E04A0B5458281
+      Function="/Script/Engine.MaterialFunction'MF_UI_WaveWarp'"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0" ExportPath="/Script/UnrealEd.SceneThumbnailInfoWithPrimitive'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:SceneThumbnailInfoWithPrimitive_0'"
+   End Object
+   Begin Object Name="Material_0" ExportPath="/Script/Engine.Material'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:Material_0'"
+      Begin Object Name="Material_0EditorOnlyData" ExportPath="/Script/Engine.MaterialEditorOnlyData'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_WaveWarp.MF_UI_WaveWarp:Material_0.Material_0EditorOnlyData'"
+         EmissiveColor=(Expression="/Script/Engine.MaterialExpressionFunctionOutput'MF_UI_WaveWarp:MaterialExpressionFunctionOutput_1'")
+         ExpressionCollection=(Expressions=("/Script/Engine.MaterialExpressionFunctionOutput'MF_UI_WaveWarp:MaterialExpressionFunctionOutput_1'","/Script/Engine.MaterialExpressionTextureCoordinate'MF_UI_WaveWarp:MaterialExpressionTextureCoordinate_0'","/Script/Engine.MaterialExpressionComponentMask'MF_UI_WaveWarp:MaterialExpressionComponentMask_0'","/Script/Engine.MaterialExpressionAdd'MF_UI_WaveWarp:MaterialExpressionAdd_2'","/Script/Engine.MaterialExpressionComponentMask'MF_UI_WaveWarp:MaterialExpressionComponentMask_3'","/Script/Engine.MaterialExpressionMultiply'MF_UI_WaveWarp:MaterialExpressionMultiply_10'","/Script/Engine.MaterialExpressionMultiply'MF_UI_WaveWarp:MaterialExpressionMultiply_11'","/Script/Engine.MaterialExpressionConstant'MF_UI_WaveWarp:MaterialExpressionConstant_26'","/Script/Engine.MaterialExpressionConstant'MF_UI_WaveWarp:MaterialExpressionConstant_27'","/Script/Engine.MaterialExpressionConstant'MF_UI_WaveWarp:MaterialExpressionConstant_28'","/Script/Engine.MaterialExpressionSine'MF_UI_WaveWarp:MaterialExpressionSine_1'","/Script/Engine.MaterialExpressionAdd'MF_UI_WaveWarp:MaterialExpressionAdd_3'","/Script/Engine.MaterialExpressionAdd'MF_UI_WaveWarp:MaterialExpressionAdd_6'","/Script/Engine.MaterialExpressionSine'MF_UI_WaveWarp:MaterialExpressionSine_2'","/Script/Engine.MaterialExpressionReroute'MF_UI_WaveWarp:MaterialExpressionReroute_5'","/Script/Engine.MaterialExpressionReroute'MF_UI_WaveWarp:MaterialExpressionReroute_6'","/Script/Engine.MaterialExpressionReroute'MF_UI_WaveWarp:MaterialExpressionReroute_7'","/Script/Engine.MaterialExpressionReroute'MF_UI_WaveWarp:MaterialExpressionReroute_8'","/Script/Engine.MaterialExpressionConstant'MF_UI_WaveWarp:MaterialExpressionConstant_29'","/Script/Engine.MaterialExpressionConstant'MF_UI_WaveWarp:MaterialExpressionConstant_30'","/Script/Engine.MaterialExpressionMultiply'MF_UI_WaveWarp:MaterialExpressionMultiply_6'","/Script/Engine.MaterialExpressionAppendVector'MF_UI_WaveWarp:MaterialExpressionAppendVector_0'","/Script/Engine.MaterialExpressionMultiply'MF_UI_WaveWarp:MaterialExpressionMultiply_16'","/Script/Engine.MaterialExpressionAdd'MF_UI_WaveWarp:MaterialExpressionAdd_13'","/Script/Engine.MaterialExpressionFunctionInput'MF_UI_WaveWarp:MaterialExpressionFunctionInput_0'","/Script/Engine.MaterialExpressionFunctionInput'MF_UI_WaveWarp:MaterialExpressionFunctionInput_1'","/Script/Engine.MaterialExpressionFunctionInput'MF_UI_WaveWarp:MaterialExpressionFunctionInput_2'","/Script/Engine.MaterialExpressionFunctionInput'MF_UI_WaveWarp:MaterialExpressionFunctionInput_3'","/Script/Engine.MaterialExpressionFunctionInput'MF_UI_WaveWarp:MaterialExpressionFunctionInput_4'","/Script/Engine.MaterialExpressionReroute'MF_UI_WaveWarp:MaterialExpressionReroute_0'","/Script/Engine.MaterialExpressionReroute'MF_UI_WaveWarp:MaterialExpressionReroute_1'","/Script/Engine.MaterialExpressionFunctionInput'MF_UI_WaveWarp:MaterialExpressionFunctionInput_5'","/Script/Engine.MaterialExpressionFunctionInput'MF_UI_WaveWarp:MaterialExpressionFunctionInput_6'","/Script/Engine.MaterialExpressionNamedRerouteDeclaration'MF_UI_WaveWarp:MaterialExpressionNamedRerouteDeclaration_0'","/Script/Engine.MaterialExpressionNamedRerouteUsage'MF_UI_WaveWarp:MaterialExpressionNamedRerouteUsage_0'","/Script/Engine.MaterialExpressionFunctionOutput'MF_UI_WaveWarp:MaterialExpressionFunctionOutput_2'","/Script/Engine.MaterialExpressionNamedRerouteUsage'MF_UI_WaveWarp:MaterialExpressionNamedRerouteUsage_2'","/Script/Engine.MaterialExpressionAdd'MF_UI_WaveWarp:MaterialExpressionAdd_0'","/Script/Engine.MaterialExpressionMaterialFunctionCall'MF_UI_WaveWarp:MaterialExpressionMaterialFunctionCall_0'"),EditorComments=("/Script/Engine.MaterialExpressionComment'MF_UI_WaveWarp:MaterialExpressionComment_0'","/Script/Engine.MaterialExpressionComment'MF_UI_WaveWarp:MaterialExpressionComment_1'","/Script/Engine.MaterialExpressionComment'MF_UI_WaveWarp:MaterialExpressionComment_2'","/Script/Engine.MaterialExpressionComment'MF_UI_WaveWarp:MaterialExpressionComment_3'"))
+      End Object
+      ShadingModel=MSM_Unlit
+      ShadingModels=(ShadingModelField=1)
+      bCanMaskedBeAssumedOpaque=True
+      StateId=927BA3F341714BB21C82A2BB8B74CF95
+      EditorOnlyData="/Script/Engine.MaterialEditorOnlyData'Material_0EditorOnlyData'"
+      ThumbnailInfo="/Script/UnrealEd.SceneThumbnailInfoWithPrimitive'MF_UI_WaveWarp:SceneThumbnailInfoWithPrimitive_0'"
+      LightingGuid=3CE7E9D242D5143A10D544B8970E628E
+   End Object
+   bExposeToLibrary=True
+   LibraryCategoriesText(0)=NSLOCTEXT("", "F503B31A4D7365F1669F9AA88A502EE5", "UIMaterialLab")
+   DependentFunctionExpressionCandidates(0)="/Script/Engine.MaterialExpressionMaterialFunctionCall'MaterialExpressionMaterialFunctionCall_0'"
+   EditorOnlyData="/Script/Engine.MaterialFunctionEditorOnlyData'MF_UI_WaveWarpEditorOnlyData'"
+   StateId=9D81D2F4434D7880D06D50949543390A
+   CombinedInputTypes=15
+   CombinedOutputTypes=15
+   ThumbnailInfo="/Script/UnrealEd.SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'"
+End Object

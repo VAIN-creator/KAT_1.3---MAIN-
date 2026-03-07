@@ -1,0 +1,260 @@
+Begin Object Class=/Script/Engine.MaterialFunction Name="MF_UI_PolarCoordinates" ExportPath="/Script/Engine.MaterialFunction'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates'"
+   Begin Object Class=/Script/Engine.MaterialFunctionEditorOnlyData Name="MF_UI_PolarCoordinatesEditorOnlyData" ExportPath="/Script/Engine.MaterialFunctionEditorOnlyData'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates:MF_UI_PolarCoordinatesEditorOnlyData'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_3" ExportPath="/Script/Engine.MaterialExpressionAdd'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates:MaterialExpressionAdd_3'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAppendVector Name="MaterialExpressionAppendVector_0" ExportPath="/Script/Engine.MaterialExpressionAppendVector'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates:MaterialExpressionAppendVector_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAppendVector Name="MaterialExpressionAppendVector_1" ExportPath="/Script/Engine.MaterialExpressionAppendVector'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates:MaterialExpressionAppendVector_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionArctangent2Fast Name="MaterialExpressionArctangent2Fast_0" ExportPath="/Script/Engine.MaterialExpressionArctangent2Fast'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates:MaterialExpressionArctangent2Fast_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_2" ExportPath="/Script/Engine.MaterialExpressionConstant'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates:MaterialExpressionConstant_2'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionDivide Name="MaterialExpressionDivide_0" ExportPath="/Script/Engine.MaterialExpressionDivide'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates:MaterialExpressionDivide_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFrac Name="MaterialExpressionFrac_0" ExportPath="/Script/Engine.MaterialExpressionFrac'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates:MaterialExpressionFrac_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_2" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates:MaterialExpressionFunctionInput_2'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_3" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates:MaterialExpressionFunctionInput_3'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionOutput Name="MaterialExpressionFunctionOutput_1" ExportPath="/Script/Engine.MaterialExpressionFunctionOutput'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates:MaterialExpressionFunctionOutput_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionOutput Name="MaterialExpressionFunctionOutput_35" ExportPath="/Script/Engine.MaterialExpressionFunctionOutput'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates:MaterialExpressionFunctionOutput_35'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_0" ExportPath="/Script/Engine.MaterialExpressionMaterialFunctionCall'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates:MaterialExpressionMaterialFunctionCall_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_1" ExportPath="/Script/Engine.MaterialExpressionMaterialFunctionCall'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates:MaterialExpressionMaterialFunctionCall_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_0" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates:MaterialExpressionMultiply_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionReroute Name="MaterialExpressionReroute_0" ExportPath="/Script/Engine.MaterialExpressionReroute'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates:MaterialExpressionReroute_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionSquareRoot Name="MaterialExpressionSquareRoot_1" ExportPath="/Script/Engine.MaterialExpressionSquareRoot'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates:MaterialExpressionSquareRoot_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticBool Name="MaterialExpressionStaticBool_1" ExportPath="/Script/Engine.MaterialExpressionStaticBool'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates:MaterialExpressionStaticBool_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticSwitch Name="MaterialExpressionStaticSwitch_0" ExportPath="/Script/Engine.MaterialExpressionStaticSwitch'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates:MaterialExpressionStaticSwitch_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionSubtract Name="MaterialExpressionSubtract_3" ExportPath="/Script/Engine.MaterialExpressionSubtract'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates:MaterialExpressionSubtract_3'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_1" ExportPath="/Script/Engine.MaterialExpressionTextureCoordinate'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates:MaterialExpressionTextureCoordinate_1'"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0" ExportPath="/Script/UnrealEd.SceneThumbnailInfoWithPrimitive'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates:SceneThumbnailInfoWithPrimitive_0'"
+   End Object
+   Begin Object Class=/Script/Engine.Material Name="Material_0" ExportPath="/Script/Engine.Material'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates:Material_0'"
+      Begin Object Class=/Script/Engine.MaterialEditorOnlyData Name="Material_0EditorOnlyData" ExportPath="/Script/Engine.MaterialEditorOnlyData'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates:Material_0.Material_0EditorOnlyData'"
+      End Object
+   End Object
+   Begin Object Name="MF_UI_PolarCoordinatesEditorOnlyData" ExportPath="/Script/Engine.MaterialFunctionEditorOnlyData'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates:MF_UI_PolarCoordinatesEditorOnlyData'"
+      ExpressionCollection=(Expressions=("/Script/Engine.MaterialExpressionFunctionOutput'MF_UI_PolarCoordinates:MaterialExpressionFunctionOutput_35'","/Script/Engine.MaterialExpressionFunctionInput'MF_UI_PolarCoordinates:MaterialExpressionFunctionInput_2'","/Script/Engine.MaterialExpressionTextureCoordinate'MF_UI_PolarCoordinates:MaterialExpressionTextureCoordinate_1'","/Script/Engine.MaterialExpressionMaterialFunctionCall'MF_UI_PolarCoordinates:MaterialExpressionMaterialFunctionCall_0'","/Script/Engine.MaterialExpressionArctangent2Fast'MF_UI_PolarCoordinates:MaterialExpressionArctangent2Fast_0'","/Script/Engine.MaterialExpressionDivide'MF_UI_PolarCoordinates:MaterialExpressionDivide_0'","/Script/Engine.MaterialExpressionConstant'MF_UI_PolarCoordinates:MaterialExpressionConstant_2'","/Script/Engine.MaterialExpressionFrac'MF_UI_PolarCoordinates:MaterialExpressionFrac_0'","/Script/Engine.MaterialExpressionSubtract'MF_UI_PolarCoordinates:MaterialExpressionSubtract_3'","/Script/Engine.MaterialExpressionFunctionOutput'MF_UI_PolarCoordinates:MaterialExpressionFunctionOutput_1'","/Script/Engine.MaterialExpressionAppendVector'MF_UI_PolarCoordinates:MaterialExpressionAppendVector_0'","/Script/Engine.MaterialExpressionMultiply'MF_UI_PolarCoordinates:MaterialExpressionMultiply_0'","/Script/Engine.MaterialExpressionAdd'MF_UI_PolarCoordinates:MaterialExpressionAdd_3'","/Script/Engine.MaterialExpressionSquareRoot'MF_UI_PolarCoordinates:MaterialExpressionSquareRoot_1'","/Script/Engine.MaterialExpressionStaticSwitch'MF_UI_PolarCoordinates:MaterialExpressionStaticSwitch_0'","/Script/Engine.MaterialExpressionFunctionInput'MF_UI_PolarCoordinates:MaterialExpressionFunctionInput_3'","/Script/Engine.MaterialExpressionAppendVector'MF_UI_PolarCoordinates:MaterialExpressionAppendVector_1'","/Script/Engine.MaterialExpressionStaticBool'MF_UI_PolarCoordinates:MaterialExpressionStaticBool_1'","/Script/Engine.MaterialExpressionMaterialFunctionCall'MF_UI_PolarCoordinates:MaterialExpressionMaterialFunctionCall_1'","/Script/Engine.MaterialExpressionReroute'MF_UI_PolarCoordinates:MaterialExpressionReroute_0'"))
+   End Object
+   Begin Object Name="MaterialExpressionAdd_3" ExportPath="/Script/Engine.MaterialExpressionAdd'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates:MaterialExpressionAdd_3'"
+      A=(Expression="/Script/Engine.MaterialExpressionMaterialFunctionCall'MF_UI_PolarCoordinates:MaterialExpressionMaterialFunctionCall_1'")
+      B=(Expression="/Script/Engine.MaterialExpressionMaterialFunctionCall'MF_UI_PolarCoordinates:MaterialExpressionMaterialFunctionCall_1'",OutputIndex=1)
+      MaterialExpressionEditorX=-96
+      MaterialExpressionEditorY=528
+      MaterialExpressionGuid=D062B59546969E8F2094D3BCDBC74128
+      Function="/Script/Engine.MaterialFunction'MF_UI_PolarCoordinates'"
+   End Object
+   Begin Object Name="MaterialExpressionAppendVector_0" ExportPath="/Script/Engine.MaterialExpressionAppendVector'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates:MaterialExpressionAppendVector_0'"
+      A=(Expression="/Script/Engine.MaterialExpressionSquareRoot'MF_UI_PolarCoordinates:MaterialExpressionSquareRoot_1'")
+      B=(Expression="/Script/Engine.MaterialExpressionReroute'MF_UI_PolarCoordinates:MaterialExpressionReroute_0'")
+      MaterialExpressionEditorX=560
+      MaterialExpressionEditorY=528
+      MaterialExpressionGuid=71A684564FC652B8FEB6D996EE147623
+      Function="/Script/Engine.MaterialFunction'MF_UI_PolarCoordinates'"
+   End Object
+   Begin Object Name="MaterialExpressionAppendVector_1" ExportPath="/Script/Engine.MaterialExpressionAppendVector'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates:MaterialExpressionAppendVector_1'"
+      A=(Expression="/Script/Engine.MaterialExpressionReroute'MF_UI_PolarCoordinates:MaterialExpressionReroute_0'")
+      B=(Expression="/Script/Engine.MaterialExpressionSquareRoot'MF_UI_PolarCoordinates:MaterialExpressionSquareRoot_1'")
+      MaterialExpressionEditorX=560
+      MaterialExpressionEditorY=400
+      MaterialExpressionGuid=B5816E124875FFC65E9797B2150CA178
+      Function="/Script/Engine.MaterialFunction'MF_UI_PolarCoordinates'"
+   End Object
+   Begin Object Name="MaterialExpressionArctangent2Fast_0" ExportPath="/Script/Engine.MaterialExpressionArctangent2Fast'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates:MaterialExpressionArctangent2Fast_0'"
+      Y=(Expression="/Script/Engine.MaterialExpressionMaterialFunctionCall'MF_UI_PolarCoordinates:MaterialExpressionMaterialFunctionCall_0'")
+      X=(Expression="/Script/Engine.MaterialExpressionMaterialFunctionCall'MF_UI_PolarCoordinates:MaterialExpressionMaterialFunctionCall_0'",OutputIndex=1)
+      MaterialExpressionEditorX=-320
+      MaterialExpressionEditorY=192
+      MaterialExpressionGuid=AE4D172247155E4959799AB515E61B11
+      Function="/Script/Engine.MaterialFunction'MF_UI_PolarCoordinates'"
+   End Object
+   Begin Object Name="MaterialExpressionConstant_2" ExportPath="/Script/Engine.MaterialExpressionConstant'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates:MaterialExpressionConstant_2'"
+      R=6.283000
+      MaterialExpressionEditorX=-256
+      MaterialExpressionEditorY=304
+      MaterialExpressionGuid=083D25FF4ECF4C70A686D5B931FEEBC1
+      Function="/Script/Engine.MaterialFunction'MF_UI_PolarCoordinates'"
+   End Object
+   Begin Object Name="MaterialExpressionDivide_0" ExportPath="/Script/Engine.MaterialExpressionDivide'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates:MaterialExpressionDivide_0'"
+      A=(Expression="/Script/Engine.MaterialExpressionArctangent2Fast'MF_UI_PolarCoordinates:MaterialExpressionArctangent2Fast_0'")
+      B=(Expression="/Script/Engine.MaterialExpressionConstant'MF_UI_PolarCoordinates:MaterialExpressionConstant_2'")
+      MaterialExpressionEditorX=-96
+      MaterialExpressionEditorY=192
+      MaterialExpressionGuid=39CFF11445C1A16D6A9D2B900AE60562
+      Function="/Script/Engine.MaterialFunction'MF_UI_PolarCoordinates'"
+   End Object
+   Begin Object Name="MaterialExpressionFrac_0" ExportPath="/Script/Engine.MaterialExpressionFrac'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates:MaterialExpressionFrac_0'"
+      Input=(Expression="/Script/Engine.MaterialExpressionDivide'MF_UI_PolarCoordinates:MaterialExpressionDivide_0'")
+      MaterialExpressionEditorX=64
+      MaterialExpressionEditorY=192
+      MaterialExpressionGuid=D58C0ACC40B7BEE7EB7E009D6F46AF2F
+      Function="/Script/Engine.MaterialFunction'MF_UI_PolarCoordinates'"
+      bCollapsed=False
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_2" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates:MaterialExpressionFunctionInput_2'"
+      Preview=(Expression="/Script/Engine.MaterialExpressionTextureCoordinate'MF_UI_PolarCoordinates:MaterialExpressionTextureCoordinate_1'")
+      InputName="Vector or UVs"
+      Description="Insert a vector 2 value to retrieve the vectors angle or insert uvs to retrieve radial coordinates. Note that (0,0) is not an acceptable number.  "
+      Id=9EF82AB049DB3BE551CEC7A42F4231BA
+      InputType=FunctionInput_Vector2
+      PreviewValue=(X=1.000000,Y=1.000000,Z=0.000000,W=1.000000)
+      bUsePreviewValueAsDefault=True
+      MaterialExpressionEditorX=-1280
+      MaterialExpressionEditorY=224
+      MaterialExpressionGuid=087CD836459ED2F461724BA93CD1F9EB
+      Function="/Script/Engine.MaterialFunction'MF_UI_PolarCoordinates'"
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_3" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates:MaterialExpressionFunctionInput_3'"
+      Preview=(Expression="/Script/Engine.MaterialExpressionStaticBool'MF_UI_PolarCoordinates:MaterialExpressionStaticBool_1'")
+      InputName="Swizzle Coordinate Output"
+      Description="Switch the order of the channels exported from the \"radial coordinates\" output."
+      Id=325B1CDE4BB0D32B21B8DB9D2928E1A9
+      InputType=FunctionInput_StaticBool
+      bUsePreviewValueAsDefault=True
+      SortPriority=1
+      MaterialExpressionEditorX=368
+      MaterialExpressionEditorY=800
+      MaterialExpressionGuid=B35D5EDF48153F6A7D1867972E569F34
+      Function="/Script/Engine.MaterialFunction'MF_UI_PolarCoordinates'"
+   End Object
+   Begin Object Name="MaterialExpressionFunctionOutput_1" ExportPath="/Script/Engine.MaterialExpressionFunctionOutput'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates:MaterialExpressionFunctionOutput_1'"
+      OutputName="Radial Coordinates"
+      Description="The input coordinates or vector will be transformed into radial coordinates. In the case of a vector the angle will be output in one channel and the length of the vector in the other."
+      SortPriority=1
+      A=(Expression="/Script/Engine.MaterialExpressionStaticSwitch'MF_UI_PolarCoordinates:MaterialExpressionStaticSwitch_0'")
+      bLastPreviewed=True
+      Id=6AD01F0A40A6977B640F1E886C80B168
+      MaterialExpressionEditorX=1072
+      MaterialExpressionEditorY=400
+      MaterialExpressionGuid=278D5E30496AA16106871EA030CB7D72
+      Function="/Script/Engine.MaterialFunction'MF_UI_PolarCoordinates'"
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionFunctionOutput_35" ExportPath="/Script/Engine.MaterialExpressionFunctionOutput'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates:MaterialExpressionFunctionOutput_35'"
+      OutputName="Angle gradient"
+      Description="This will return the angle of of the input vector or a radial gradient in the case of input uvs."
+      SortPriority=1
+      A=(Expression="/Script/Engine.MaterialExpressionFrac'MF_UI_PolarCoordinates:MaterialExpressionFrac_0'")
+      bLastPreviewed=True
+      Id=FD37479A447EEF9D7929CAB519D55C97
+      MaterialExpressionEditorX=1072
+      MaterialExpressionEditorY=192
+      MaterialExpressionGuid=EB2813FB444CD00BE006B3A6FEDDAC35
+      Function="/Script/Engine.MaterialFunction'MF_UI_PolarCoordinates'"
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_0" ExportPath="/Script/Engine.MaterialExpressionMaterialFunctionCall'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates:MaterialExpressionMaterialFunctionCall_0'"
+      MaterialFunction="/Script/Engine.MaterialFunction'/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.BreakOutFloat2Components'"
+      FunctionInputs(0)=(ExpressionInputId=0FC5C56B4335798F20CB928CF1C87421,Input=(Expression="/Script/Engine.MaterialExpressionSubtract'MF_UI_PolarCoordinates:MaterialExpressionSubtract_3'",InputName="Float2"))
+      FunctionOutputs(0)=(ExpressionOutputId=6BC893C247FCFC567178CE944E213385,Output=(OutputName="R"))
+      FunctionOutputs(1)=(ExpressionOutputId=9720C81E449DF8E5514FCB8A80FD5FA3,Output=(OutputName="G"))
+      MaterialExpressionEditorX=-624
+      MaterialExpressionEditorY=192
+      MaterialExpressionGuid=648F4E9C400F60C04B31418B9DE5F557
+      Function="/Script/Engine.MaterialFunction'MF_UI_PolarCoordinates'"
+      Outputs(0)=(OutputName="R")
+      Outputs(1)=(OutputName="G")
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_1" ExportPath="/Script/Engine.MaterialExpressionMaterialFunctionCall'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates:MaterialExpressionMaterialFunctionCall_1'"
+      MaterialFunction="/Script/Engine.MaterialFunction'/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.BreakOutFloat2Components'"
+      FunctionInputs(0)=(ExpressionInputId=0FC5C56B4335798F20CB928CF1C87421,Input=(Expression="/Script/Engine.MaterialExpressionMultiply'MF_UI_PolarCoordinates:MaterialExpressionMultiply_0'",InputName="Float2"))
+      FunctionOutputs(0)=(ExpressionOutputId=6BC893C247FCFC567178CE944E213385,Output=(OutputName="R"))
+      FunctionOutputs(1)=(ExpressionOutputId=9720C81E449DF8E5514FCB8A80FD5FA3,Output=(OutputName="G"))
+      MaterialExpressionEditorX=-416
+      MaterialExpressionEditorY=528
+      MaterialExpressionGuid=648F4E9C400F60C04B31418B9DE5F557
+      Function="/Script/Engine.MaterialFunction'MF_UI_PolarCoordinates'"
+      Outputs(0)=(OutputName="R")
+      Outputs(1)=(OutputName="G")
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_0" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates:MaterialExpressionMultiply_0'"
+      A=(Expression="/Script/Engine.MaterialExpressionSubtract'MF_UI_PolarCoordinates:MaterialExpressionSubtract_3'")
+      B=(Expression="/Script/Engine.MaterialExpressionSubtract'MF_UI_PolarCoordinates:MaterialExpressionSubtract_3'")
+      MaterialExpressionEditorX=-624
+      MaterialExpressionEditorY=528
+      MaterialExpressionGuid=C9D5F83D41E01A762E0FA29058AA644A
+      Function="/Script/Engine.MaterialFunction'MF_UI_PolarCoordinates'"
+   End Object
+   Begin Object Name="MaterialExpressionReroute_0" ExportPath="/Script/Engine.MaterialExpressionReroute'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates:MaterialExpressionReroute_0'"
+      Input=(Expression="/Script/Engine.MaterialExpressionFrac'MF_UI_PolarCoordinates:MaterialExpressionFrac_0'")
+      MaterialExpressionEditorX=288
+      MaterialExpressionEditorY=432
+      MaterialExpressionGuid=60A4F1A647A7ADF6FBE5A780C46E6AE1
+      Function="/Script/Engine.MaterialFunction'MF_UI_PolarCoordinates'"
+   End Object
+   Begin Object Name="MaterialExpressionSquareRoot_1" ExportPath="/Script/Engine.MaterialExpressionSquareRoot'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates:MaterialExpressionSquareRoot_1'"
+      Input=(Expression="/Script/Engine.MaterialExpressionAdd'MF_UI_PolarCoordinates:MaterialExpressionAdd_3'")
+      MaterialExpressionEditorX=64
+      MaterialExpressionEditorY=528
+      MaterialExpressionGuid=43CDA4234722F837478DB8A291A2812B
+      Function="/Script/Engine.MaterialFunction'MF_UI_PolarCoordinates'"
+      bCollapsed=False
+   End Object
+   Begin Object Name="MaterialExpressionStaticBool_1" ExportPath="/Script/Engine.MaterialExpressionStaticBool'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates:MaterialExpressionStaticBool_1'"
+      Value=True
+      MaterialExpressionEditorX=16
+      MaterialExpressionEditorY=784
+      MaterialExpressionGuid=0CAD15C040EEE16A443E56AB5C1EFF95
+      Function="/Script/Engine.MaterialFunction'MF_UI_PolarCoordinates'"
+   End Object
+   Begin Object Name="MaterialExpressionStaticSwitch_0" ExportPath="/Script/Engine.MaterialExpressionStaticSwitch'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates:MaterialExpressionStaticSwitch_0'"
+      A=(Expression="/Script/Engine.MaterialExpressionAppendVector'MF_UI_PolarCoordinates:MaterialExpressionAppendVector_1'")
+      B=(Expression="/Script/Engine.MaterialExpressionAppendVector'MF_UI_PolarCoordinates:MaterialExpressionAppendVector_0'")
+      Value=(Expression="/Script/Engine.MaterialExpressionFunctionInput'MF_UI_PolarCoordinates:MaterialExpressionFunctionInput_3'")
+      MaterialExpressionEditorX=848
+      MaterialExpressionEditorY=400
+      MaterialExpressionGuid=279088E046C5EB0CA39134B79BBBD807
+      Function="/Script/Engine.MaterialFunction'MF_UI_PolarCoordinates'"
+   End Object
+   Begin Object Name="MaterialExpressionSubtract_3" ExportPath="/Script/Engine.MaterialExpressionSubtract'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates:MaterialExpressionSubtract_3'"
+      B=(Expression="/Script/Engine.MaterialExpressionFunctionInput'MF_UI_PolarCoordinates:MaterialExpressionFunctionInput_2'")
+      ConstA=0.500000
+      MaterialExpressionEditorX=-976
+      MaterialExpressionEditorY=192
+      MaterialExpressionGuid=107ABA5A41BB2CC5DAC8849421912AF3
+      Function="/Script/Engine.MaterialFunction'MF_UI_PolarCoordinates'"
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_1" ExportPath="/Script/Engine.MaterialExpressionTextureCoordinate'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates:MaterialExpressionTextureCoordinate_1'"
+      MaterialExpressionEditorX=-1488
+      MaterialExpressionEditorY=224
+      MaterialExpressionGuid=DD073BD14C8303C4F823D48A59892183
+      Function="/Script/Engine.MaterialFunction'MF_UI_PolarCoordinates'"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0" ExportPath="/Script/UnrealEd.SceneThumbnailInfoWithPrimitive'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates:SceneThumbnailInfoWithPrimitive_0'"
+   End Object
+   Begin Object Name="Material_0" ExportPath="/Script/Engine.Material'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates:Material_0'"
+      Begin Object Name="Material_0EditorOnlyData" ExportPath="/Script/Engine.MaterialEditorOnlyData'/Game/UIMaterialLab/MaterialFunctions/Distortions/MF_UI_PolarCoordinates.MF_UI_PolarCoordinates:Material_0.Material_0EditorOnlyData'"
+         EmissiveColor=(Expression="/Script/Engine.MaterialExpressionFunctionOutput'MF_UI_PolarCoordinates:MaterialExpressionFunctionOutput_35'")
+         ExpressionCollection=(Expressions=("/Script/Engine.MaterialExpressionFunctionOutput'MF_UI_PolarCoordinates:MaterialExpressionFunctionOutput_35'","/Script/Engine.MaterialExpressionFunctionInput'MF_UI_PolarCoordinates:MaterialExpressionFunctionInput_2'","/Script/Engine.MaterialExpressionTextureCoordinate'MF_UI_PolarCoordinates:MaterialExpressionTextureCoordinate_1'","/Script/Engine.MaterialExpressionMaterialFunctionCall'MF_UI_PolarCoordinates:MaterialExpressionMaterialFunctionCall_0'","/Script/Engine.MaterialExpressionArctangent2Fast'MF_UI_PolarCoordinates:MaterialExpressionArctangent2Fast_0'","/Script/Engine.MaterialExpressionDivide'MF_UI_PolarCoordinates:MaterialExpressionDivide_0'","/Script/Engine.MaterialExpressionConstant'MF_UI_PolarCoordinates:MaterialExpressionConstant_2'","/Script/Engine.MaterialExpressionFrac'MF_UI_PolarCoordinates:MaterialExpressionFrac_0'","/Script/Engine.MaterialExpressionSubtract'MF_UI_PolarCoordinates:MaterialExpressionSubtract_3'","/Script/Engine.MaterialExpressionFunctionOutput'MF_UI_PolarCoordinates:MaterialExpressionFunctionOutput_1'","/Script/Engine.MaterialExpressionAppendVector'MF_UI_PolarCoordinates:MaterialExpressionAppendVector_0'","/Script/Engine.MaterialExpressionMultiply'MF_UI_PolarCoordinates:MaterialExpressionMultiply_0'","/Script/Engine.MaterialExpressionAdd'MF_UI_PolarCoordinates:MaterialExpressionAdd_3'","/Script/Engine.MaterialExpressionSquareRoot'MF_UI_PolarCoordinates:MaterialExpressionSquareRoot_1'","/Script/Engine.MaterialExpressionStaticSwitch'MF_UI_PolarCoordinates:MaterialExpressionStaticSwitch_0'","/Script/Engine.MaterialExpressionFunctionInput'MF_UI_PolarCoordinates:MaterialExpressionFunctionInput_3'","/Script/Engine.MaterialExpressionAppendVector'MF_UI_PolarCoordinates:MaterialExpressionAppendVector_1'","/Script/Engine.MaterialExpressionStaticBool'MF_UI_PolarCoordinates:MaterialExpressionStaticBool_1'","/Script/Engine.MaterialExpressionMaterialFunctionCall'MF_UI_PolarCoordinates:MaterialExpressionMaterialFunctionCall_1'","/Script/Engine.MaterialExpressionReroute'MF_UI_PolarCoordinates:MaterialExpressionReroute_0'"))
+      End Object
+      ShadingModel=MSM_Unlit
+      ShadingModels=(ShadingModelField=1)
+      bCanMaskedBeAssumedOpaque=True
+      StateId=B142AE9D4F63A65E99A909B0F23B197E
+      EditorOnlyData="/Script/Engine.MaterialEditorOnlyData'Material_0EditorOnlyData'"
+      ThumbnailInfo="/Script/UnrealEd.SceneThumbnailInfoWithPrimitive'MF_UI_PolarCoordinates:SceneThumbnailInfoWithPrimitive_0'"
+      LightingGuid=7ECCF73C4E2D0AC5F50BBCB798178EE1
+   End Object
+   bExposeToLibrary=True
+   LibraryCategoriesText(0)=NSLOCTEXT("", "C239422D419B87A874049D92427B86B9", "UIMaterialLab")
+   DependentFunctionExpressionCandidates(0)="/Script/Engine.MaterialExpressionMaterialFunctionCall'MaterialExpressionMaterialFunctionCall_0'"
+   DependentFunctionExpressionCandidates(1)="/Script/Engine.MaterialExpressionMaterialFunctionCall'MaterialExpressionMaterialFunctionCall_1'"
+   EditorOnlyData="/Script/Engine.MaterialFunctionEditorOnlyData'MF_UI_PolarCoordinatesEditorOnlyData'"
+   StateId=E55960704A16FA67672CBFB7EB3E33C9
+   CombinedInputTypes=514
+   CombinedOutputTypes=15
+   ThumbnailInfo="/Script/UnrealEd.SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'"
+End Object

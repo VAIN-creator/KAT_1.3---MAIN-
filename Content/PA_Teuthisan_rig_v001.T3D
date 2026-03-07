@@ -1,0 +1,408 @@
+Begin Object Class=/Script/Engine.PhysicsAsset Name="PA_Teuthisan_rig_v001" ExportPath="/Script/Engine.PhysicsAsset'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001'"
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_0" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_0'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_1" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_1'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_10" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_10'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_11" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_11'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_12" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_12'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_13" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_13'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_14" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_14'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_15" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_15'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_16" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_16'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_17" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_17'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_18" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_18'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_19" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_19'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_2" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_2'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_20" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_20'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_21" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_21'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_22" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_22'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_23" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_23'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_24" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_24'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_25" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_25'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_3" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_3'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_4" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_4'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_5" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_5'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_6" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_6'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_7" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_7'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_8" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_8'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_9" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_9'"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfo Name="SceneThumbnailInfo_0" ExportPath="/Script/UnrealEd.SceneThumbnailInfo'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SceneThumbnailInfo_0'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_0" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_0'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_1" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_1'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_10" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_10'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_11" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_11'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_12" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_12'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_13" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_13'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_14" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_14'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_15" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_15'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_16" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_16'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_17" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_17'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_18" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_18'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_19" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_19'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_2" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_2'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_20" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_20'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_21" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_21'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_22" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_22'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_23" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_23'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_24" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_24'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_25" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_25'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_26" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_26'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_3" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_3'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_4" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_4'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_5" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_5'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_6" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_6'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_7" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_7'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_8" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_8'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_9" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_9'"
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_0" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_0'"
+      DefaultInstance=(JointName="spine_01",ConstraintBone1="spine_01",ConstraintBone2="root",Pos2=(X=0.000001,Y=11.593521,Z=107.869926),PriAxis2=(X=-0.000000,Y=0.187796,Z=0.982208),SecAxis2=(X=0.000000,Y=0.982208,Z=-0.187796),ProfileInstance=(ConeLimit=(Swing1Motion=ACM_Limited,Swing2Motion=ACM_Limited),TwistLimit=(TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_1" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_1'"
+      DefaultInstance=(JointName="spine_03",ConstraintBone1="spine_03",ConstraintBone2="spine_01",Pos2=(X=13.928192,Y=-5.394199,Z=0.000000),PriAxis2=(X=0.968537,Y=-0.248868,Z=-0.000000),SecAxis2=(X=0.248868,Y=0.968537,Z=0.000000),ProfileInstance=(ConeLimit=(Swing1Motion=ACM_Limited,Swing2Motion=ACM_Limited),TwistLimit=(TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_10" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_10'"
+      DefaultInstance=(JointName="back_hand_r",ConstraintBone1="back_hand_r",ConstraintBone2="back_upperarm_r",Pos2=(X=-30.948631,Y=-8.729554,Z=-0.618570),PriAxis2=(X=0.895130,Y=0.445258,Z=-0.022076),SecAxis2=(X=-0.147596,Y=0.342721,Z=0.927770),ProfileInstance=(ConeLimit=(Swing1Motion=ACM_Limited,Swing2Motion=ACM_Limited),TwistLimit=(TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_11" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_11'"
+      DefaultInstance=(JointName="upperarm_l",ConstraintBone1="upperarm_l",ConstraintBone2="spine_05",Pos2=(X=2.176700,Y=1.854262,Z=-12.142200),PriAxis2=(X=-0.524037,Y=-0.368470,Z=-0.767865),SecAxis2=(X=-0.287915,Y=0.925135,Z=-0.247447),ProfileInstance=(ConeLimit=(Swing1Motion=ACM_Limited,Swing2Motion=ACM_Limited),TwistLimit=(TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_12" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_12'"
+      DefaultInstance=(JointName="lowerarm_twist_01_l",ConstraintBone1="lowerarm_twist_01_l",ConstraintBone2="upperarm_l",Pos2=(X=65.053246,Y=14.288918,Z=1.333858),PriAxis2=(X=0.935484,Y=0.351612,Z=0.035206),SecAxis2=(X=-0.351383,Y=0.936146,Z=-0.012710),ProfileInstance=(ConeLimit=(Swing1Motion=ACM_Limited,Swing2Motion=ACM_Limited),TwistLimit=(TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_13" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_13'"
+      DefaultInstance=(JointName="hand_l",ConstraintBone1="hand_l",ConstraintBone2="lowerarm_twist_01_l",Pos2=(X=13.809883,Y=0.478436,Z=0.014876),PriAxis2=(X=0.998437,Y=0.003641,Z=-0.055771),SecAxis2=(X=0.050785,Y=0.357536,Z=0.932518),ProfileInstance=(ConeLimit=(Swing1Motion=ACM_Limited,Swing2Motion=ACM_Limited),TwistLimit=(TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_14" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_14'"
+      DefaultInstance=(JointName="back_upperarm_l",ConstraintBone1="back_upperarm_l",ConstraintBone2="upperarm_l",Pos2=(X=33.957191,Y=0.145396,Z=-1.247779),PriAxis2=(X=0.960429,Y=0.182140,Z=-0.210713),SecAxis2=(X=-0.094633,Y=0.924929,Z=0.368173),ProfileInstance=(ConeLimit=(Swing1Motion=ACM_Limited,Swing2Motion=ACM_Limited),TwistLimit=(TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_15" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_15'"
+      DefaultInstance=(JointName="back_hand_l",ConstraintBone1="back_hand_l",ConstraintBone2="back_upperarm_l",Pos2=(X=30.948643,Y=8.729527,Z=0.618522),PriAxis2=(X=0.895130,Y=0.445258,Z=-0.022076),SecAxis2=(X=-0.147596,Y=0.342721,Z=0.927770),ProfileInstance=(ConeLimit=(Swing1Motion=ACM_Limited,Swing2Motion=ACM_Limited),TwistLimit=(TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_16" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_16'"
+      DefaultInstance=(JointName="front_upperarm_r",ConstraintBone1="front_upperarm_r",ConstraintBone2="spine_01",Pos2=(X=14.659397,Y=6.165607,Z=5.552382),PriAxis2=(X=0.922282,Y=0.087604,Z=-0.376460),SecAxis2=(X=0.070947,Y=-0.995797,Z=-0.057917),ProfileInstance=(ConeLimit=(Swing1Motion=ACM_Limited,Swing2Motion=ACM_Limited),TwistLimit=(TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_17" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_17'"
+      DefaultInstance=(JointName="front_hand_r",ConstraintBone1="front_hand_r",ConstraintBone2="front_upperarm_r",Pos2=(X=-23.005863,Y=-10.687990,Z=1.360108),PriAxis2=(X=0.734889,Y=0.649465,Z=-0.195278),SecAxis2=(X=-0.116594,Y=0.404646,Z=0.907010),ProfileInstance=(ConeLimit=(Swing1Motion=ACM_Limited,Swing2Motion=ACM_Limited),TwistLimit=(TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_18" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_18'"
+      DefaultInstance=(JointName="front_upperarm_l",ConstraintBone1="front_upperarm_l",ConstraintBone2="spine_01",Pos2=(X=14.659765,Y=6.165523,Z=-5.552380),PriAxis2=(X=-0.922282,Y=-0.087604,Z=-0.376460),SecAxis2=(X=-0.070947,Y=0.995797,Z=-0.057917),ProfileInstance=(ConeLimit=(Swing1Motion=ACM_Limited,Swing2Motion=ACM_Limited),TwistLimit=(TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_19" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_19'"
+      DefaultInstance=(JointName="front_hand_l",ConstraintBone1="front_hand_l",ConstraintBone2="front_upperarm_l",Pos2=(X=23.006224,Y=10.688057,Z=-1.360251),PriAxis2=(X=0.734889,Y=0.649465,Z=-0.195278),SecAxis2=(X=-0.116594,Y=0.404646,Z=0.907010),ProfileInstance=(ConeLimit=(Swing1Motion=ACM_Limited,Swing2Motion=ACM_Limited),TwistLimit=(TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_2" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_2'"
+      DefaultInstance=(JointName="spine_04",ConstraintBone1="spine_04",ConstraintBone2="spine_03",Pos2=(X=8.465194,Y=-4.680941,Z=0.000065),PriAxis2=(X=0.994762,Y=-0.102219,Z=0.000000),SecAxis2=(X=0.102219,Y=0.994762,Z=-0.000008),ProfileInstance=(ConeLimit=(Swing1Motion=ACM_Limited,Swing2Motion=ACM_Limited),TwistLimit=(TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_20" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_20'"
+      DefaultInstance=(JointName="thigh_r",ConstraintBone1="thigh_r",ConstraintBone2="root",Pos2=(X=-11.958191,Y=10.985747,Z=99.003906),PriAxis2=(X=-0.095761,Y=-0.004844,Z=-0.995392),SecAxis2=(X=0.245314,Y=-0.969260,Z=-0.018884),ProfileInstance=(ConeLimit=(Swing1Motion=ACM_Limited,Swing2Motion=ACM_Limited),TwistLimit=(TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_21" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_21'"
+      DefaultInstance=(JointName="calf_r",ConstraintBone1="calf_r",ConstraintBone2="thigh_r",Pos2=(X=45.422752,Y=1.664975,Z=0.005885),PriAxis2=(X=0.780907,Y=0.624643,Z=0.002208),SecAxis2=(X=-0.624642,Y=0.780910,Z=-0.001522),ProfileInstance=(ConeLimit=(Swing1Motion=ACM_Limited,Swing2Motion=ACM_Limited),TwistLimit=(TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_22" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_22'"
+      DefaultInstance=(JointName="foot_02_r",ConstraintBone1="foot_02_r",ConstraintBone2="calf_r",Pos2=(X=38.692123,Y=-12.428018,Z=-0.837817),PriAxis2=(X=-0.199432,Y=0.979814,Z=0.013833),SecAxis2=(X=-0.978289,Y=-0.199894,Z=0.054705),ProfileInstance=(ConeLimit=(Swing1Motion=ACM_Limited,Swing2Motion=ACM_Limited),TwistLimit=(TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_23" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_23'"
+      DefaultInstance=(JointName="thigh_l",ConstraintBone1="thigh_l",ConstraintBone2="root",Pos2=(X=11.958200,Y=10.985700,Z=99.003899),PriAxis2=(X=-0.095761,Y=0.004844,Z=0.995392),SecAxis2=(X=0.245314,Y=0.969260,Z=0.018883),ProfileInstance=(ConeLimit=(Swing1Motion=ACM_Limited,Swing2Motion=ACM_Limited),TwistLimit=(TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_24" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_24'"
+      DefaultInstance=(JointName="calf_l",ConstraintBone1="calf_l",ConstraintBone2="thigh_l",Pos2=(X=-45.422699,Y=-1.664929,Z=-0.005888),PriAxis2=(X=0.780907,Y=0.624643,Z=0.002208),SecAxis2=(X=-0.624642,Y=0.780910,Z=-0.001522),ProfileInstance=(ConeLimit=(Swing1Motion=ACM_Limited,Swing2Motion=ACM_Limited),TwistLimit=(TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_25" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_25'"
+      DefaultInstance=(JointName="foot_02_l",ConstraintBone1="foot_02_l",ConstraintBone2="calf_l",Pos2=(X=-38.692173,Y=12.428065,Z=0.837810),PriAxis2=(X=-0.199432,Y=0.979814,Z=0.013833),SecAxis2=(X=-0.978289,Y=-0.199894,Z=0.054705),ProfileInstance=(ConeLimit=(Swing1Motion=ACM_Limited,Swing2Motion=ACM_Limited),TwistLimit=(TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_3" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_3'"
+      DefaultInstance=(JointName="spine_05",ConstraintBone1="spine_05",ConstraintBone2="spine_04",Pos2=(X=9.778148,Y=-0.118762,Z=-0.000066),PriAxis2=(X=0.999929,Y=-0.011892,Z=-0.000000),SecAxis2=(X=0.011892,Y=0.999929,Z=0.000008),ProfileInstance=(ConeLimit=(Swing1Motion=ACM_Limited,Swing2Motion=ACM_Limited),TwistLimit=(TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_4" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_4'"
+      DefaultInstance=(JointName="neck_01",ConstraintBone1="neck_01",ConstraintBone2="spine_05",Pos2=(X=6.115689,Y=4.768816,Z=0.000000),PriAxis2=(X=0.914053,Y=0.405595,Z=-0.000000),SecAxis2=(X=-0.405595,Y=0.914053,Z=-0.000000),ProfileInstance=(ConeLimit=(Swing1Motion=ACM_Limited,Swing2Motion=ACM_Limited),TwistLimit=(TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_5" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_5'"
+      DefaultInstance=(JointName="head",ConstraintBone1="head",ConstraintBone2="neck_01",Pos2=(X=8.345679,Y=0.849871,Z=0.000003),PriAxis2=(X=0.971161,Y=-0.238427,Z=-0.000000),SecAxis2=(X=0.238427,Y=0.971161,Z=-0.000000),ProfileInstance=(ConeLimit=(Swing1Motion=ACM_Limited,Swing2Motion=ACM_Limited),TwistLimit=(TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_6" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_6'"
+      DefaultInstance=(JointName="upperarm_r",ConstraintBone1="upperarm_r",ConstraintBone2="spine_05",Pos2=(X=2.177135,Y=1.854342,Z=12.142181),PriAxis2=(X=0.524036,Y=0.368470,Z=-0.767865),SecAxis2=(X=0.287915,Y=-0.925135,Z=-0.247447),ProfileInstance=(ConeLimit=(Swing1Motion=ACM_Limited,Swing2Motion=ACM_Limited),TwistLimit=(TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_7" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_7'"
+      DefaultInstance=(JointName="lowerarm_twist_01_r",ConstraintBone1="lowerarm_twist_01_r",ConstraintBone2="upperarm_r",Pos2=(X=-65.053497,Y=-14.288971,Z=-1.333550),PriAxis2=(X=0.935484,Y=0.351612,Z=0.035206),SecAxis2=(X=-0.351383,Y=0.936146,Z=-0.012710),ProfileInstance=(ConeLimit=(Swing1Motion=ACM_Limited,Swing2Motion=ACM_Limited),TwistLimit=(TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_8" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_8'"
+      DefaultInstance=(JointName="hand_r",ConstraintBone1="hand_r",ConstraintBone2="lowerarm_twist_01_r",Pos2=(X=-13.809855,Y=-0.478436,Z=-0.014865),PriAxis2=(X=0.998437,Y=0.003641,Z=-0.055771),SecAxis2=(X=0.050785,Y=0.357536,Z=0.932518),ProfileInstance=(ConeLimit=(Swing1Motion=ACM_Limited,Swing2Motion=ACM_Limited),TwistLimit=(TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_9" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:PhysicsConstraintTemplate_9'"
+      DefaultInstance=(JointName="back_upperarm_r",ConstraintBone1="back_upperarm_r",ConstraintBone2="upperarm_r",Pos2=(X=-33.957600,Y=-0.145475,Z=1.248336),PriAxis2=(X=0.960429,Y=0.182140,Z=-0.210713),SecAxis2=(X=-0.094633,Y=0.924929,Z=0.368173),ProfileInstance=(ConeLimit=(Swing1Motion=ACM_Limited,Swing2Motion=ACM_Limited),TwistLimit=(TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="SceneThumbnailInfo_0" ExportPath="/Script/UnrealEd.SceneThumbnailInfo'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SceneThumbnailInfo_0'"
+   End Object
+   Begin Object Name="SkeletalBodySetup_0" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_0'"
+      AggGeom=(SphylElems=((Center=(X=0.000694,Y=11.244537,Z=100.621201),Rotation=(Pitch=0.000000,Yaw=-90.008514,Roll=-89.999496),Radius=8.168094,Length=10.843549)))
+      BoneName="root"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_1" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_1'"
+      AggGeom=(SphylElems=((Center=(X=10.607456,Y=-0.888196,Z=0.000526),Rotation=(Pitch=-0.007220,Yaw=-89.999992,Roll=0.003412),Radius=11.092364,Length=14.554109)))
+      BoneName="spine_01"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_10" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_10'"
+      AggGeom=(SphylElems=((Center=(X=-14.674624,Y=-3.083152,Z=-0.147476),Rotation=(Pitch=0.000000,Yaw=-68.819199,Roll=-88.779411),Radius=5.200131,Length=16.930576)))
+      BoneName="back_upperarm_r"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_11" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_11'"
+      AggGeom=(SphylElems=((Center=(X=-6.287547,Y=4.726696,Z=1.445137),Rotation=(Pitch=0.000007,Yaw=-122.988586,Roll=-74.822021),Radius=4.210603,Length=11.008307)))
+      BoneName="back_hand_r"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_12" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_12'"
+      AggGeom=(SphylElems=((Center=(X=24.827351,Y=4.821658,Z=-0.141405),Rotation=(Pitch=-0.000007,Yaw=-76.063492,Roll=-84.275597),Radius=10.684757,Length=29.964386)))
+      BoneName="upperarm_l"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_13" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_13'"
+      AggGeom=(SphylElems=((Center=(X=3.313899,Y=2.600150,Z=-1.916554),Rotation=(Pitch=0.000007,Yaw=-77.023071,Roll=-79.320221),Radius=5.011052,Length=15.361218)))
+      BoneName="lowerarm_twist_01_l"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_14" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_14'"
+      AggGeom=(SphylElems=((Center=(X=11.744381,Y=-3.393552,Z=-1.117857),Rotation=(Pitch=0.000000,Yaw=-94.582153,Roll=-86.967133),Radius=6.198231,Length=18.235161)))
+      BoneName="hand_l"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_15" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_15'"
+      AggGeom=(SphylElems=((Center=(X=14.670739,Y=3.087318,Z=0.142602),Rotation=(Pitch=0.000000,Yaw=-68.860283,Roll=-88.799591),Radius=5.205998,Length=16.928411)))
+      BoneName="back_upperarm_l"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_16" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_16'"
+      AggGeom=(SphylElems=((Center=(X=6.289587,Y=-4.723981,Z=-1.444655),Rotation=(Pitch=0.000000,Yaw=-122.986649,Roll=-74.811287),Radius=4.206957,Length=11.008273)))
+      BoneName="back_hand_l"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_17" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_17'"
+      AggGeom=(SphylElems=((Center=(X=-10.406967,Y=-1.977870,Z=0.908261),Rotation=(Pitch=0.000007,Yaw=-63.980202,Roll=-86.223686),Radius=5.506309,Length=13.789123)))
+      BoneName="front_upperarm_r"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_18" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_18'"
+      AggGeom=(SphylElems=((Center=(X=-4.548844,Y=3.684998,Z=0.477458),Rotation=(Pitch=0.000000,Yaw=-119.546776,Roll=-83.629677),Radius=3.351506,Length=8.926412)))
+      BoneName="front_hand_r"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_19" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_19'"
+      AggGeom=(SphylElems=((Center=(X=10.403200,Y=1.981150,Z=-0.914622),Rotation=(Pitch=0.000000,Yaw=-64.020409,Roll=-86.265320),Radius=5.510196,Length=13.788036)))
+      BoneName="front_upperarm_l"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_2" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_2'"
+      AggGeom=(SphylElems=((Center=(X=6.449810,Y=1.212241,Z=0.019037),Rotation=(Pitch=-0.557412,Yaw=-90.000008,Roll=-0.370476),Radius=12.964318,Length=14.245067)))
+      BoneName="spine_03"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_20" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_20'"
+      AggGeom=(SphylElems=((Center=(X=4.549975,Y=-3.683471,Z=-0.477499),Rotation=(Pitch=-0.000007,Yaw=-119.539467,Roll=-83.610115),Radius=3.348881,Length=8.926497)))
+      BoneName="front_hand_l"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_21" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_21'"
+      AggGeom=(SphylElems=((Center=(X=18.368790,Y=0.848582,Z=-0.739305),Rotation=(Pitch=0.000000,Yaw=91.799622,Roll=-88.556320),Radius=10.278526,Length=27.386614)))
+      BoneName="thigh_r"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_22" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_22'"
+      AggGeom=(SphylElems=((Center=(X=20.214090,Y=-2.896353,Z=-0.178360),Rotation=(Pitch=0.000000,Yaw=-108.449203,Roll=-89.074524),Radius=9.236348,Length=21.086300)))
+      BoneName="calf_r"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_23" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_23'"
+      AggGeom=(SphylElems=((Center=(X=-12.268120,Y=0.797411,Z=0.879672),Rotation=(Pitch=0.000007,Yaw=-97.409874,Roll=-83.899612),Radius=6.123872,Length=14.414095)))
+      BoneName="foot_02_r"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_24" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_24'"
+      AggGeom=(SphylElems=((Center=(X=-18.368801,Y=-0.848792,Z=0.739260),Rotation=(Pitch=0.000000,Yaw=91.799728,Roll=-88.555908),Radius=10.278217,Length=27.386553)))
+      BoneName="thigh_l"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_25" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_25'"
+      AggGeom=(SphylElems=((Center=(X=-20.213665,Y=2.896341,Z=0.178295),Rotation=(Pitch=0.000000,Yaw=-108.449234,Roll=-89.075508),Radius=9.236310,Length=21.085793)))
+      BoneName="calf_l"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_26" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_26'"
+      AggGeom=(SphylElems=((Center=(X=12.263951,Y=-0.796937,Z=-0.881636),Rotation=(Pitch=0.000007,Yaw=-97.409096,Roll=-83.869049),Radius=6.127028,Length=14.409769)))
+      BoneName="foot_02_l"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_3" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_3'"
+      AggGeom=(SphylElems=((Center=(X=4.312834,Y=0.329058,Z=0.118125),Rotation=(Pitch=89.195206,Yaw=86.334412,Roll=176.335114),Radius=13.776143,Length=13.954073)))
+      BoneName="spine_04"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_4" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_4'"
+      AggGeom=(SphylElems=((Center=(X=5.923312,Y=1.632809,Z=0.000232),Rotation=(Pitch=0.000649,Yaw=-89.999992,Roll=0.000784),Radius=14.194556,Length=14.867814)))
+      BoneName="spine_05"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_5" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_5'"
+      AggGeom=(SphylElems=((Center=(X=3.221651,Y=0.825844,Z=0.179527),Rotation=(Pitch=59.192341,Yaw=-63.385162,Roll=23.286018),Radius=11.476998,Length=12.679254)))
+      BoneName="neck_01"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_6" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_6'"
+      AggGeom=(SphylElems=((Center=(X=-3.027255,Y=10.482265,Z=-0.033442),Rotation=(Pitch=0.000000,Yaw=-133.859238,Roll=-89.574409),Radius=17.839251,Length=19.350250)))
+      BoneName="head"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_7" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_7'"
+      AggGeom=(SphylElems=((Center=(X=-24.818184,Y=-4.840275,Z=0.161711),Rotation=(Pitch=-0.000007,Yaw=-76.018806,Roll=-84.230896),Radius=10.685975,Length=29.965071)))
+      BoneName="upperarm_r"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_8" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_8'"
+      AggGeom=(SphylElems=((Center=(X=-3.315211,Y=-2.600142,Z=1.917238),Rotation=(Pitch=0.000000,Yaw=-77.026314,Roll=-79.325661),Radius=5.010523,Length=15.362718)))
+      BoneName="lowerarm_twist_01_r"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_9" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/Teuthisan/Rig/PA_Teuthisan_rig_v001.PA_Teuthisan_rig_v001:SkeletalBodySetup_9'"
+      AggGeom=(SphylElems=((Center=(X=-11.743633,Y=3.384755,Z=1.130383),Rotation=(Pitch=0.000000,Yaw=-94.584602,Roll=-86.955956),Radius=6.223657,Length=18.234833)))
+      BoneName="hand_r"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   PreviewSkeletalMesh="/Game/Characters/Teuthisan/Rig/SKM_Teuthisan_rig_v001.SKM_Teuthisan_rig_v001"
+   BoundsBodies(0)=0
+   BoundsBodies(1)=1
+   BoundsBodies(2)=2
+   BoundsBodies(3)=3
+   BoundsBodies(4)=4
+   BoundsBodies(5)=5
+   BoundsBodies(6)=6
+   BoundsBodies(7)=7
+   BoundsBodies(8)=8
+   BoundsBodies(9)=9
+   BoundsBodies(10)=10
+   BoundsBodies(11)=11
+   BoundsBodies(12)=12
+   BoundsBodies(13)=13
+   BoundsBodies(14)=14
+   BoundsBodies(15)=15
+   BoundsBodies(16)=16
+   BoundsBodies(17)=17
+   BoundsBodies(18)=18
+   BoundsBodies(19)=19
+   BoundsBodies(20)=20
+   BoundsBodies(21)=21
+   BoundsBodies(22)=22
+   BoundsBodies(23)=23
+   BoundsBodies(24)=24
+   BoundsBodies(25)=25
+   BoundsBodies(26)=26
+   SkeletalBodySetups(0)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_0'"
+   SkeletalBodySetups(1)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_1'"
+   SkeletalBodySetups(2)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_2'"
+   SkeletalBodySetups(3)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_3'"
+   SkeletalBodySetups(4)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_4'"
+   SkeletalBodySetups(5)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_5'"
+   SkeletalBodySetups(6)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_6'"
+   SkeletalBodySetups(7)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_7'"
+   SkeletalBodySetups(8)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_8'"
+   SkeletalBodySetups(9)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_9'"
+   SkeletalBodySetups(10)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_10'"
+   SkeletalBodySetups(11)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_11'"
+   SkeletalBodySetups(12)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_12'"
+   SkeletalBodySetups(13)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_13'"
+   SkeletalBodySetups(14)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_14'"
+   SkeletalBodySetups(15)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_15'"
+   SkeletalBodySetups(16)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_16'"
+   SkeletalBodySetups(17)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_17'"
+   SkeletalBodySetups(18)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_18'"
+   SkeletalBodySetups(19)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_19'"
+   SkeletalBodySetups(20)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_20'"
+   SkeletalBodySetups(21)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_21'"
+   SkeletalBodySetups(22)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_22'"
+   SkeletalBodySetups(23)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_23'"
+   SkeletalBodySetups(24)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_24'"
+   SkeletalBodySetups(25)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_25'"
+   SkeletalBodySetups(26)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_26'"
+   ConstraintSetup(0)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_0'"
+   ConstraintSetup(1)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_1'"
+   ConstraintSetup(2)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_2'"
+   ConstraintSetup(3)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_3'"
+   ConstraintSetup(4)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_4'"
+   ConstraintSetup(5)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_5'"
+   ConstraintSetup(6)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_6'"
+   ConstraintSetup(7)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_7'"
+   ConstraintSetup(8)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_8'"
+   ConstraintSetup(9)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_9'"
+   ConstraintSetup(10)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_10'"
+   ConstraintSetup(11)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_11'"
+   ConstraintSetup(12)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_12'"
+   ConstraintSetup(13)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_13'"
+   ConstraintSetup(14)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_14'"
+   ConstraintSetup(15)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_15'"
+   ConstraintSetup(16)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_16'"
+   ConstraintSetup(17)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_17'"
+   ConstraintSetup(18)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_18'"
+   ConstraintSetup(19)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_19'"
+   ConstraintSetup(20)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_20'"
+   ConstraintSetup(21)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_21'"
+   ConstraintSetup(22)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_22'"
+   ConstraintSetup(23)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_23'"
+   ConstraintSetup(24)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_24'"
+   ConstraintSetup(25)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_25'"
+   SolverSettings=(CullDistance=1.000000,bUseLinearJointSolver=False,bUseManifolds=False)
+   ThumbnailInfo="/Script/UnrealEd.SceneThumbnailInfo'SceneThumbnailInfo_0'"
+End Object
