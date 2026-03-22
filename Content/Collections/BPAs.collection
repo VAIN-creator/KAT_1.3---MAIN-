@@ -3,26 +3,3 @@ Type:Static
 Guid:F03469BC-4E15-0D0A-1B82-A7BEAA93F665
 ParentGuid:00000000-0000-0000-0000-000000000000
 
-/Game/BPA_Actors/CCTV/BPA_CCTV_Master_Monitor.BPA_CCTV_Master_Monitor
-/Game/BPA_Actors/CCTV/CCTV_Cams/BPA_Camera_Master.BPA_Camera_Master
-/Game/BPA_Actors/Chest/BPA_Chest.BPA_Chest
-/Game/BPA_Actors/Door_Master/BPA_Door_Master.BPA_Door_Master
-/Game/BPA_Actors/Door_Master/BPA_Door_Master_Child.BPA_Door_Master_Child
-/Game/BPA_Actors/Flashlight/BPA_SMBattary.BPA_SMBattary
-/Game/BPA_Actors/Key_door/BPA_Key_Master.BPA_Key_Master
-/Game/BPA_Actors/Key_door/BPA_Key_Master_Child.BPA_Key_Master_Child
-/Game/BPA_Actors/Note/BPA_PickuNote_Demo.BPA_PickuNote_Demo
-/Game/BPA_Actors/Note/BPA_Pickup_Master_Note.BPA_Pickup_Master_Note
-/Game/BPA_Actors/Pickup_Master/BPA_Pickup_Master.BPA_Pickup_Master
-/Game/BPA_Actors/Powerline/BP_Surgebox_Child.BP_Surgebox_Child
-/Game/BPA_Actors/Powerline/BP_SurgeFuse.BP_SurgeFuse
-/Game/BPA_Actors/Powerline/BPA_Lights_Master_Child.BPA_Lights_Master_Child
-/Game/BPA_Actors/Powerline/Masters/BP_Surgebox_Master.BP_Surgebox_Master
-/Game/BPA_Actors/Powerline/Masters/BP_SurgeFuse_Master.BP_SurgeFuse_Master
-/Game/BPA_Actors/Powerline/Masters/BPA_Lights_Master.BPA_Lights_Master
-/Game/BPA_Actors/Puzzle/Picture_Frame/BPA_Frame_Master.BPA_Frame_Master
-/Game/BPA_Actors/Puzzle/Picture_Frame/BPA_Puzzle_manager.BPA_Puzzle_manager
-/Game/BPA_Actors/Searching/Closet/BPA_Closet.BPA_Closet
-/Game/BPA_Actors/Searching/Closet/BPA_Wardrobe_Doors1.BPA_Wardrobe_Doors1
-/Game/BPA_Actors/Searching/Drawer/BPA_Drawer.BPA_Drawer
-/Game/BPA_Actors/Searching/Drawer/BPA_Drawer_Doors.BPA_Drawer_Doors
